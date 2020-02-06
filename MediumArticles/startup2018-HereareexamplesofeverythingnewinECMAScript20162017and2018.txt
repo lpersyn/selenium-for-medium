@@ -1,0 +1,89 @@
+Its hard to keep track of whats new in JavaScript (ECMAScript). And its even harder to find useful code examples.
+So in this article, Ill cover all 18 features that are listed in the TC39s finished proposals that were added in ES2016, ES2017, and ES2018 (final draft) and show them with useful examples.
+This is a pretty long post but should be an easy read. Think of this as Netflix binge reading. By the end of this, I promise that youll have a ton of knowledge about all these features.
+includes is a simple instance method on the Array and helps to easily find if an item is in the Array (including NaN unlike indexOf).
+Trivia: the JavaScript spec people wanted to name it contains , but this was apparently already used by Mootools so they used includes .
+Math operations like addition and subtraction have infix operators like + and - , respectively. Similar to them, the ** infix operator is commonly used for exponent operation. In ECMAScript 2016, the ** was introduced instead of Math.pow .
+Object.values() is a new function thats similar to Object.keys() but returns all the values of the Objects own properties excluding any value(s) in the prototypical chain.
+Object.entries() is related to Object.keys , but instead of returning just keys, it returns both keys and values in the array fashion. This makes it very simple to do things like using objects in loops or converting objects into Maps.
+Example 1:
+Example 2:
+Two instance methods were added to String  String.prototype.padStart and String.prototype.padEnd  that allow appending/prepending either an empty string or some other string to the start or the end of the original string.
+This comes in handy when we want to align things in scenarios like pretty print display or terminal print.
+In the below example, we have a list of numbers of varying lengths. We want to prepend 0 so that all the items have the same length of 10 digits for display purposes. We can use padStart(10, '0') to easily achieve this.
+padEnd really comes in handy when we are printing multiple items of varying lengths and want to right-align them properly.
+The example below is a good realistic example of how padEnd , padStart , and Object.entries all come together to produce a beautiful output.
+Emojis and other double-byte chars are represented using multiple bytes of unicode. So padStart and padEnd might not work as expected!
+For example: Lets say we are trying to pad the string heart to reach 10 characters with the  emoji. The result will look like below:
+This is because  is 2 code points long ('\u2764\uFE0F' )! The word heart itself is 5 characters, so we only have a total of 5 chars left to pad. So what happens is that JS pads two hearts using '\u2764\uFE0F' and that produces . For the last one it simply uses the first byte of the heart \u2764 which produces 
+So we end up with: heart
+PS: You may use this link to check out unicode char conversions.
+This method returns all the details (including getter getand setter set methods) for all the properties of a given object. The main motivation to add this is to allow shallow copying / cloning an object into another object that also copies getter and setter functions as opposed to Object.assign .
+Object.assign shallow copies all the details except getter and setter functions of the original source object.
+The example below shows the difference between Object.assign and Object.getOwnPropertyDescriptors along with Object.defineProperties to copy an original object Car into a new object ElectricCar . Youll see that by using Object.getOwnPropertyDescriptors ,discount getter and setter functions are also copied into the target object.
+BEFORE
+AFTER
+This is a minor update that allows us to have trailing commas after the last function parameter. Why? To help with tools like git blame to ensure only new developers get blamed.
+The below example shows the problem and the solution.
+Note: You can also call functions with trailing commas!
+This, by far, is the most important and most useful feature if you ask me. Async functions allows us to not deal with callback hell and make the entire code look simple.
+The async keyword tells the JavaScript compiler to treat the function differently. The compiler pauses whenever it reaches the await keyword within that function. It assumes that the expression after await returns a promise and waits until the promise is resolved or rejected before moving further.
+In the example below, the getAmount function is calling two asynchronous functions getUser and getBankBalance . We can do this in promise, but using async await is more elegant and simple.
+If you are waiting for the result from an async function, you need to use Promises then syntax to capture its result.
+In the following example, we want to log the result using console.log but not within the doubleAndAdd. So we want to wait and use then syntax to pass the result to console.log .
+In the previous example we are calling await twice, but each time we are waiting for one second (total 2 seconds). Instead we can parallelize it since a and b are not dependent on each other using Promise.all.
+There are various ways to handle errors when using async await.
+Since every await expression returns a Promise, you can catch errors on each line as shown below.
+ECMAScript is currently in final draft and will be out in June or July 2018. All the features covered below are in Stage-4 and will be part of ECMAScript 2018.
+This is a huge, pretty advanced feature and is a core enhancement to JS engines.
+The main idea is to bring some sort of multi-threading feature to JavaScript so that JS developers can write high-performance, concurrent programs in the future by allowing to manage memory by themselves instead of letting JS engine manage memory.
+This is done by a new type of a global object called SharedArrayBuffer that essentially stores data in a shared memory space. So this data can be shared between the main JS thread and web-worker threads.
+Until now, if we want to share data between the main JS thread and web-workers, we had to copy the data and send it to the other thread using postMessage . Not anymore!
+You simply use SharedArrayBuffer and the data is instantly accessible by both the main thread and multiple web-worker threads.
+But sharing memory between threads can cause race conditions. To help avoid race conditions, the Atomics global object is introduced. Atomics provides various methods to lock the shared memory when a thread is using its data. It also provides methods to update such data in that shared memory safely.
+The recommendation is to use this feature via some library, but right now there are no libraries built on top of this feature.
+If you are interested, I recommend reading:
+First, we need to clarify what a Tagged Template literal is so we can understand this feature better.
+In ES2015+, there is a feature called a tagged template literal that allows developers to customize how strings are interpolated. For example, in the standard way strings are interpolated like below
+In the tagged literal, you can write a function to receive the hardcoded parts of the string literal, for example [ Hello , ! ] , and the replacement variables, for example,[ 'Raja'] , as parameters into a custom function (for example greet ), and return whatever you want from that custom function.
+The below example shows that our custom Tag function greet appends time of the day like Good Morning! Good afternoon, and so on depending on the time of the day to the string literal and returns a custom string.
+Now that we discussed what Tagged functions are, many people want to use this feature in different domains, like in Terminal for commands and HTTP requests for composing URIs, and so on.
+The problem is that ES2015 and ES2016 specs doesnt allow using escape characters like \u (unicode), \x(hexadecimal) unless they look exactly like `\u00A9` or \u{2F804} or \xA9.
+So if you have a Tagged function that internally uses some other domains rules (like Terminals rules), that may need to use \ubla123abla that doesnt look like \u0049 or \u{@F804}, then you would get a syntax error.
+In ES2018, the rules are relaxed to allow such seemingly invalid escape characters as long as the Tagged function returns the values in an object with a cooked property (where invalid characters are undefined), and then a raw property (with whatever you want).
+Currently in RegEx, although the dot(.) is supposed to match a single character, it doesnt match new line characters like \n \r \f etc.
+For example:
+This enhancement makes it possible for the dot operator to match any single character. In order to ensure this doesnt break anything, we need to use \s flag when we create the RegEx for this to work.
+Here is the overall API from the proposal doc:
+This enhancement brings a useful RegExp feature from other languages like Python, Java and so on called Named Groups. This features allows developers writing RegExp to provide names (identifiers) in the format(?<name>...) for different parts of the group in the RegExp. They can then use that name to grab whichever group they need with ease.
+In the below example, we are using (?<year>) (?<month>) and (?<day>) names to group different parts of the date RegEx. The resulting object will now contain a groups property with properties year, month , and day with corresponding values.
+We can use the \k<group name> format to back reference the group within the regex itself. The following example shows how it works.
+The named group feature is now baked into Strings replace instance method. So we can easily swap words in the string.
+For example, change firstName, lastName to lastName, firstName.
+Rest operator ... (three dots) allows us to extract Object properties that are not already extracted.
+Spread properties also look just like rest properties with three dots ... but the difference is that you use spread to create (restructure) new objects.
+Tip: the spread operator is used in the right side of the equals sign. The rest are used in the left-side of the equals sign.
+This is an enhancement to the RegEx that allows us to ensure some string exists immediately *before* some other string.
+You can now use a group (?<=) (question mark, less than, equals) to look behind for positive assertion.
+Further, you can use (?<!) (question mark, less than, exclamation), to look behind for a negative assertion. Essentially this will match as long as the -ve assertion passes.
+Positive Assertion: Lets say we want to ensure that the # sign exists before the word winning (that is: #winning) and want the regex to return just the string winning. Here is how youd write it.
+Negative Assertion: Lets say we want to extract numbers from lines that have  signs and not $ signs before those numbers.
+It was not easy to write RegEx to match various unicode characters. Things like \w , \W , \d etc only match English characters and numbers. But what about numbers in other languages like Hindi, Greek, and so on?
+Thats where Unicode Property Escapes come in. It turns out Unicode adds metadata properties for each symbol (character) and uses it to group or characterize various symbols.
+For example, Unicode database groups all Hindi characters() under a property called Script with value Devanagari and another property called Script_Extensions with the same value Devanagari. So we can search for Script=Devanagari and get all Hindi characters.
+Devanagari can be used for various Indian languages like Marathi, Hindi, Sanskrit, and so on.
+Starting in ECMAScript 2018, we can use \p to escape characters along with {Script=Devanagari} to match all those Indian characters. That is, we can use: \p{Script=Devanagari} in the RegEx to match all Devanagari characters.
+Similarly, Unicode database groups all Greek characters under Script_Extensions (and Script ) property with the value Greek . So we can search for all Greek characters using Script_Extensions=Greek or Script=Greek .
+That is, we can use: \p{Script=Greek} in the RegEx to match all Greek characters.
+Further, the Unicode database stores various types of Emojis under the boolean properties Emoji, Emoji_Component, Emoji_Presentation, Emoji_Modifier, and Emoji_Modifier_Base with property values as `true`. So we can search for all Emojis by simply selecting Emoji to be true.
+That is, we can use: \p{Emoji} ,\Emoji_Modifier and so on to match various kinds of Emojis.
+The following example will make it all clear.
+Lastly, we can use capital "P(\P ) escape character instead of small p (\p ), to negate the matches.
+References:
+finally() is a new instance method that was added to Promise. The main idea is to allow running a callback after either resolve or reject to help clean things up. The finally callback is called without any value and is always executed no matter what.
+Lets look at various cases.
+This is an *extremely* useful feature. Basically it allows us to create loops of async code with ease!
+This feature adds a new for-await-of loop that allows us to call async functions that return promises (or Arrays with a bunch of promises) in a loop. The cool thing is that the loop waits for each Promise to resolve before doing to the next loop.
+Thats pretty much it!
+https://medium.com/@rajaraodv/latest
+

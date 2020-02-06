@@ -1,0 +1,15 @@
+Digsby is down today. Its been down over five hours. Why is it down? Over 5 hours ago @digsby on Twitter reported they were having server issues. Theyre nifty support blog proudly states Well be back shortly. Now thats what I call support.Unfortunately, this is where some companies understanding of web 2.0 really falls apart. If I was running a company that was having a melt down I would be sure that whoever was assigned to man the twitter account would be on it and feeding information. Five hours with not a peep is not going to work.
+You can see from their twitter feed that when things were going ok @digsby was posting fairly frequently. But, once disaster struck he or she was gone. The last post reads:
+We are having server issues. Were working to resolve the issue ASAP. More details on our blog -http://blog.digsby.com
+Their support blog is devoid of any information. If nothing else it should be saying what is going on. This is a major failure to handle service failure. Whats the point of having a blog and a twitter feed if, when the time comes to use it, you completely abandon it?
+Update 2:18PM Arizona Time
+42 Minutes ago @digsby finally posted saying: Primary database is online and synchronizing to other nodes. We hope to be online within an hour.
+Currently, still unable to connect and notices on Twitter of people unable to connect.
+Update 4:01PM Arizona Time
+Digsby is still down. No word from@digsby. Blog still says Well be back shortly
+Update 6:47PM Arizona Time
+I can confirm Digsby is back up. This was the second outage in less then a week. But, it was only the third outage in less then a year. The blog is back up again.
+The word has spread quickly across twitter that it was back online and 100 clients a second were logging back in.
+According to the Digsby blog the team is working on a local only mode so that if something does happen to the servers the clients can work independently and not go down. Im sure some people have been very frustrated over this and they may have lost users to Trillian.
+I would suggest that they work on a way for people to pay for premium service and start making some real revenue. Although, they may be afraid with people paying for service theyll have even more irate users then the ones who are getting everything for free now.
+

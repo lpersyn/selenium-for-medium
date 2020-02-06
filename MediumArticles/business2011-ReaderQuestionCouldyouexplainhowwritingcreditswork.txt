@@ -1,0 +1,48 @@
+A deep dive into the mysteries of screenwriting credits.
+From Courtney:
+While youre shooting around the topic could you shed a little light on credits? From what I understand if Scott partners with Scott the credit would be listed as
+Screenplay by Scott & Scott.
+However if Scott was rewritten the credit would be listed as
+Scott and Scott.
+Ive seen some as watered down as Scott & Scott and Scott and Scott.
+Are screen credits that important or have the writers been paid upfront and the credit system is more for show and a the resume?
+Or if you receive solo credit are you paid more with a partner etc etc
+Credits are hugely important to TV and screenwriters. They are attached to your brand, for better or worse depending upon the quality and perception of the final product. They contribute to determining how much you get paid for writing assignments. Residuals and royalty payments are tied to them. And in general, they help to define your career. For more background, you can read this. An excerpt to explain the meaning of various credits:
+WRITTEN BY: The writer created the story concept and wrote the screenplay.
+STORY BY: The writer created the story (i.e., the plot, theme, main characters, etc.).
+SCREENPLAY BY: The writer wrote the screenplay based on someone elses concept.
+TELEPLAY BY: Writer wrote the script for a television program based on someone elses concept.
+CREATED BY: Typically designated as credit for the creators of television programs, where bonuses and royalties for episodes are involved, and the shows success will determine if co-creators can become an executive.
+ON SCREEN PLACEMENT: Generally, the writers screen credit should be placed next to the directors credit. If the writing credits are in the main titles (i.e. before the film starts), they appear on a title card immediately preceding the card on which the directors credit appears. If the writing credits appear in the end titles (i.e. before the film ends), they appear immediately following the directors credit.
+Heres the deal with & and and.
+Written by Joe Carnahan & Brian Bloom and Skip Woods
+That means that Messrs. Carnahan and Bloom are considered a writing team on the project while Woods contribution was as a solo writer.
+Now I choose The A-Team for a reason: If you recall from this post, 20th Century Fox hired 11 sets of writers for this movie project. How come only Carnahan, Bloom and Woods got credit?
+That opens the door to the deep, dark mysteries of the WGA credit system. For more information, you can go here to read the official policy in the WGA Screen Credits Manual. Here is a relevant excerpt:
+Screen credit for screenplay will not be shared by more than two writers, except that in unusual cases, and solely as the result of arbitration, the names of three writers or the names of writers constituting two writing teams may be used. The limitation on the number of writers applies to all feature length photoplays except episodic pictures and revues.
+The default for the WGA is to give no more than 2 writers screenplay by credit. If there is an arbitration, there can be 3 writers.
+Why?
+As I understand it, this is about trying to maintain some degree of value for a writing credit, the thinking being if, for example, 11 sets of writers names appeared in the credits, that would somehow diminish the perception of what writers do.
+Try telling that to the 9 other sets of writers on The A-Team who did not receive credit.
+Now there are, in fact, specific guidelines in determining who deserves writing credit in an arbitration. Another excerpt from the WGA Screen Credits Manual:
+Any writer whose work represents a contribution of more than 33% of a screenplay shall be entitled to screenplay credit, except where the screenplay is an original screenplay. In the case of an original screenplay, any subsequent writer or writing team must contribute 50% to the final screenplay.
+For an original screenplay, any writer subsequent to the original writer must contribute at least 50% to the final draft of the script to receive any writing credit.
+For a non-original screenplay (based on source material), any writer subsequent to the original writer must contribute at least 33% to the final draft of the script to receive any writing credit.
+How to determine the percentages of what each writer contributes to a script? Again from the Screen Credits Manual:
+The percentage contribution made by writers to screenplay obviously cannot be determined by counting lines or even the number of pages to which a writer has contributed. Arbiters must take into consideration the following elements in determining whether a writer is entitled to screenplay credit:
+* dramatic construction;
+* original and different scenes;
+* characterization or character relationships; and
+* dialogue.
+It is up to the arbiters to determine which of the above-listed elements are most important to the overall values of the final screenplay in each particular case. A writer may receive credit for a contribution to any or all of the above-listed elements. It is because of the need to understand contributions to the screenplay as a whole that professional expertise is required on the part of the arbiters. For example, there have been instances in which every line of dialogue has been changed and still the arbiters have found no significant change in the screenplay as a whole. On the other hand, there have been instances where far fewer changes in dialogue have made a significant contribution to the screenplay as a whole. In addition, a change in one portion of the script may be so significant that the entire screenplay is affected by it.
+You can see the issue: The guidelines cant be arbitrary because story is an organic entity which means there is by definition a lot of latitude in terms of analyzing multiple drafts. So in some case, as noted above, a writer can change every line and not be deemed to have substantially altered the story while another writer may make a few changes, but are of such importance they are considered to have contributed enough to receive credit.
+I have served as a judge on perhaps 10 credit arbitrations. Bizarrely enough, this is where some of my training in biblical studies at Yale came in handy because I learned source criticism, which is the core of what is required when assessing a credit arbitration: determine who wrote what, when they wrote it, what type of content it is, and so forth. The underlying principle judges operate on is that whatever material in the shooting script appears in whatever drafts, the writer of the earliest version of that material gets credit, the assumption being that subsequent writers would have had access to the prior material, even if they claim they never read that script.
+Theres actually some practical takeaway for your writing from this lengthy post. Look at those categories again: Dramatic Construction, Original and Different Scenes, Characterization and Character Relationships, Dialogue. You dont see Narrative Voice, you dont see Style, you dont see Pace. As important as those are to the marketability of a script, the perception within the industry as to what comprises a story are those four categories above: Structure, Scenes, Characters, Dialogue. That is the guts of a story.
+For the record I have three Written By movie credits. I also used a pseudonym for a writing credit on another movie. In addition, I was one of a number of writers on three other movies that got produced for which I received no credit.
+I am reminded of the value of those Written By credits every three months when I receive these pale green envelopes with residual checks.
+So yes, writing credits are incredibly important.
+I have a question for GITS readers: Should all writers who worked on a movie project receive some sort of credit? For instance, after the official Written By or Screenplay By credits are determined, why not in end credits add Additional Writing Services, then list all the other writers? Everybody and their mother who works on a movie gets a credit. Why not all the writers?
+UPDATE: I forgot to mention a couple of things:
+Comment Archive
+For more articles in the Go Into The Story Reader Question series, go here.
+

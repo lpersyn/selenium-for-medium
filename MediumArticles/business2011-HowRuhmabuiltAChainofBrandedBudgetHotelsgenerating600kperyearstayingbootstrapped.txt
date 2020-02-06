@@ -1,0 +1,78 @@
+According to Statista, the hotel industry in India is projected to grow to $13 billion by 2020. This growth can be attributed to the rise in online bookings.
+However, in spite of the noise created by online channels, with a new app or service surfacing every now and then, online hotel booking largely remains one of the least penetrated segments in the travel industry of India.
+The challenges in this segment largely include the inability to offer a unique search experience and the lack of all-round information about the hotels.
+The Indian Hotels Industry report for FY17 identifies clearly, the need for more hotels in India, especially within the budget hotels segment.
+The demand- supply gap is real as more and more travellers are looking for accommodation that is safe and affordable.
+Diving into this ocean of opportunity, ZingoHotels has clearly established its name in the industry as a chain of branded budget hotels, recently launching a unique AI platform that offers an end-to-end solution for the traveler as well as the hotelier.
+How Ruhma Co-Founded ZingoHotels: A Chain of Branded Budget Hotels generating $600k per year staying bootstrapped.
+This is the fourteenth interview of the series PushInterview: Interviews that help you Pushstart powered by Pushstart.
+This PushInterview is powered by EngineerBabu, one of Indias fastest growing startup specialised in building MVP for startups.
+Hello Pushstarters! I am Ruhma Fathima, co-founder of ZingoHotels. This is my sixth entrepreneurial venture, after co-founding five other startups that we, unfortunately, had to shut down.
+I started my career when I was 18 as an HR Generalist with an MNC in Bangalore.
+My entrepreneurial journey started with YatriCab.com, my first startup which served more than 1 lakh customers in Delhi for about 3 years. My second startup was a digital advertising company which did offline promotional activities for companies.
+The next one was exams.com, which was intended to help students with admission and curricular activities. However, since the management of colleges were not willing to adapt, we had to drop it eventually.
+I later ventured into another Digital Agency dealing in OOH advertising, where clients could launch their products through us.
+Finally, my journey has reached ZingoHotels now.
+ZingoHotels is a chain of branded budget hotels present in multiple cities across India. We own and operate the complete inventory of the hotel which gives us leverage to offer high-quality lodging in a comfortable, clean, and convenient environment, all at an affordable price.
+Within 2 years of inception, we have marked our presence in 4 cities and have been booked for 8000+ room nights, with 50+ hotels under our chain of branded budget hotels.
+I attended an event for entrepreneurs at IIM-K when I was pursuing my job in Bangalore. Thats where I first met Abhinav Prashant, my current co-founder. We discussed a startup idea briefly over a cup of coffee.
+After a series of discussions on the startup idea and his future plans post event, I decided to join the venture.
+That also meant I had to quit my job. It was not an easy decision, considering how difficult it was to land a job at an MNC so early on in life, back then.
+One significant advantage that I had at that point was: My mind was free of any preconceived notions as I was young. I was open to all new ideas. That gave me the confidence and faith to readily agree with his concept.
+Together we co-founded our first venture YatriCab.com, a Delhi-based rental cab aggregator. This was back in 2011, when terms like startup, co-founder or investor werent as popular as of today.
+Initially, it appeared to me that I was losing a huge opportunity by giving up on my job, but well, since that day, I havent looked back.
+The first hotel where we launched our pilot project was the source of all our learning.
+That is where we did all the trial and error and constantly refined our MVP.
+We got an all round understanding of what we were supposed to do as we were running the hotel 24*7 all by ourselves. Be it economics, maintenance or customer relationship, it was a huge learning experience for us.
+The response we received from our pilot helped us in validating our idea.
+We didnt want to spend lakhs of rupees on building a product without sufficient market insights.
+So we began by listing our hotels on OTA channels like Booking.com, Goibibo and MakeMyTrip.
+Till date, we dont have our own website to generate bookings. It has been completely through OTA Channels.
+Getting a co-founder who shares the same mentality plays a huge role in the success of any startup.
+At ZingoHotels, we have divided our roles between me and Abhinav. Abhinav is into expansion, sourcing, and fundraising. I am more into management and sales. He takes care of the front-end, while I manage the back-end work.
+At the time we started up, the senior management comprised of just the two of us. Then there was the hotel staff which we outsourced by tying up with a few agencies.
+We preferred hiring people with experience than the ones who needed training from the basics.
+We recruited them from our end and paid them salaries, as we wanted professional and experienced staff to deal with the customers.
+Right now we have a 13 member strong team consisting of the senior management, techies, HR, data analysts and the ground staff.
+We use TimesJobs, Indeed and UpDash for the hiring process. I also leverage my personal LinkedIn and Facebook accounts for hiring.
+In fact, recently we hired one of our team members through Facebook!
+Finding contacts of hoteliers was not an issue as Abhinav had previously worked in this industry.
+Besides that, we have Whatsapp groups in which such requirements are posted regularly. Thats how we got connected to our first hotel. It took us two meetings to close the deal.
+We started with zero investment and took the first hotel under our brand name on a lease. We divided the advance amount into parts and convinced him to take post-dated cheques.
+Within 6-7 days of taking over the property, we were completely booked out. We repaid the owner with whatever money that came in.
+We onboarded the first few hotels through our personal connections and network.
+As a brand, we made sure to focus on maintaining quality standards and providing reliable services at the hotels. It helped us maintain a good repo with both, the hotel owner and the customer.
+The hotel industry is a vast network of referrals and word-of-mouth worked like a charm for us.
+The next set of hotels came through referrals from the existing ones.
+We didnt spend a penny on marketing. Our growth was completely organic.
+We tie up directly with OTA channels like Booking.com, Goibibo and MakeMyTrip and list our hotels on their website.
+Most of our bookings till now have come through OTA Channels.
+We also use offline channels, where we tie up with corporate companies and travel agents to generate travel bookings through them.
+The main problem with online hotel booking today is one way communication. The user books a hotel, and thats it.
+One has to spend a good amount of time to know about the exact location, amenities nearby and other crucial information regarding the stay.
+Giving required information in a structured format to guests is the key to online bookings.
+Content is the King: We made sure to provide relevant information that a user would need pre and post hotel booking. It was enough to acquire customers. We didnt spend a penny on marketing otherwise.
+Once we acquired the customers we made sure that their offline experience was top-notch. In return, we got good reviews and ratings, which improved our discoverability on the OTA channels and helped us build the much-required trust with our new customers.
+End to End ownership and control over our hotels let us provide exceptional customer service.
+We are not building an aggregator brand of hotel chains like others in the market.
+We are building our own chain of branded budget hotels.
+We are a complete solution to the hoteliers and guest backed by strong tech built by our in-house team.
+The hotelier is provided with a complete property management solution. The hotelier uses it to give real-time inventory update.
+Also, once the booking is done, the hotelier can directly interact with the guest. Theres no third party involved.
+Similarly, we have hotel bidding option for guests, wherein they can search and book a hotel according to their preferred city/locality, check-in and check-out date and time, and the budget.
+All hoteliers in the locality get the notification and the first one to accept the bid gets the booking. We also have an option called Counter Bid where any other hoteliers can counter the bid.
+As a traveler, if you need a room for 2-3 hours or just a night halt, Download the ZingoHotels app and Book the room Up!
+This is the first time a hotel chain is introducing such a product, and we are super excited!
+We provide the services of managing and supervising the day to day operations of hotel backed by a pool of qualified and experienced professionals in hotel operations, sales and marketing.
+We associate with hotels on a franchise and Management Partnership model for long-term and share a percent of the profit generated every month in the hotel.
+We have scaled to 50+ hotels, reaching an overall revenue of 6 CR in a matter of two years with zero investment.
+Towards the future, we are planning to become an end to end hospitality company. We want to help the hoteliers not just in sales and marketing but get involved from the technology front as well.
+The goal is to become the best hospitality company in the market.
+With a sound management, record of industry leadership and strong sales, distribution, and marketing infrastructure, we are poised to become one of the leading players in the Indian Hospitality Industry.
+Dont rely on anyone apart from yourself. You need to have your own way of getting things done.
+There will be people who would approach you with fake promises and free advice, but always strive to find your own path and do things your way.
+Even if you are demotivated and frustrated, you need to respond to clients with the same positive energy that they think you have. This has been one of the things that has helped us build a good rapport in the market.
+You need to know for a fact that whenever things go wrong, and you feel let down, all you will have is your family. Keep this in back of your mind.
+Send a request to Pushstart and become part of our ever-growing family.
+Hey! Neeraj here, the founder of Pushstart, Indias most active community for entrepreneurs. I release interviews with successful entrepreneurs every week. Feel free to reach out to me on Facebook | Linkedin | neeraj.joshi@pushstart.in | Twitter.
+

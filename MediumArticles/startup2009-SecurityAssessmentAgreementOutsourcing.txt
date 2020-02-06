@@ -1,0 +1,16 @@
+My work as security engineer for Schuberg Philis often requires me to deal with the following situation. A customer of our requires us to facilitate a security assessment or the infrastructure we manage on their behalf.
+More of often then not, the contractual agreements between assessor and client and client and service provider together with a third party waivers or similar documents do not cover everything that the three parties want to commonly agree upon. After reviewing quite a number of these documents, I decided to write a template agreement (which can be downloaded below) for exactly this situation. This document is not a replacement for the agreement between the client and the assessor, but as an additional agreement between all three parties.
+Madison Gurkha and ITsec have both reviewed and contributed to this agreement and we will use it in our future dealings. The agreement covers the following topics.
+Scope of the assessment:
+Contractual agreements:
+Legal liability:
+Risks:
+Practical matters:
+Confidentiality:
+The agreement template is released without any reservations of rights. This means you can use and adapt this agreement as you see fit, but completely at your own risk. You can download the agreement here:
+https://schubergphilis.com/files/sec-assessment/security-assesment-agreement-outsourcing-v1.0.pdf
+https://schubergphilis.com/files/sec-assessment/security-assesment-agreement-outsourcing-v1.0.doc
+I would like to thank the following people for their contribution:
+Go Top
+Originally published at cupfighter.net.
+

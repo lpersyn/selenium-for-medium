@@ -1,0 +1,18 @@
+Oct 9, 2012
+At Google Ventures, we have a five-day process for taking a product or feature from design through prototyping and testing. We call it a product design sprint. This is the second in a series of seven posts on running your own design sprint.
+Now that you know what design sprints are good for, youll need a few important ingredients to make yours successful. Start with a big, important problem; pitch it to your team; and schedule a user study before you even start. Get the right people and the right supplies in a room and youre on your way to a successful design sprint.
+The first thing you need is an important design problem, and if you work at a startup, chances are good you probably have one lying around the office. Maybe more than one. It might be something big, like defining your product for the first time, or a big redesign or new feature. Or it might be something detailed, like improving conversion on a single user action. It just has to be really important to the company, and it has to be something youre struggling to start or to make progress on  otherwise it can be difficult to get the other people youll need involved.
+As long as its an important problem, its perfect for a design sprint. Its OK if you dont feel ready to start on it yet. No matter how overwhelming or ambiguous, youll be able to cut a big swath through the jungle of possible solutions.
+The ideal sprint team is between four and eight people, but you can get by with more or fewer than that. Just make sure you have at least one:
+Its also great to include:
+Once you know when youre going to do the sprint, recruit users and schedule the user studies for the last day of the sprint. This is a bit terrifying: you havent even started to talk about the problem, let alone design solutions, and people  outsiders!  are going to come in and need to be shown something. This hard deadline, even though its artificial, will help you move faster and make tough decisions to focus your work throughout the sprint.
+Pick someone to be the facilitator of the sprint. The facilitator is going to be responsible for managing the sprint and moving things along. They need to be confident leading a meeting, including synthesizing discussions and telling people its time to stop talking. They also need to be comfortable with not getting to participate as much in the actual design work, because facilitating is a lot of work. Since youre the one reading this, you may be a good candidate  but its always easiest if the facilitator is an outsider. See if you can get a friend from another company to help out.
+Clear everybodys schedule for five consecutive days. Its also very important to have a dedicated room for the duration of the sprint, usually a conference room with lots of whiteboards.
+Much of the magic in design sprints comes from the sense of urgency. By their very nature, startups always feel time-constrained; the short, focused time of the sprint adds another constraint.
+Luckily, you dont need anything fancy to run a sprint. Heres everything I use:
+Okay, the stage is set. Now its time to start the sprint.
+Stay tuned for the next post, where well explore the exercises we use on the first day of a sprint.
+Product design sprint series
+Previous: Overview
+Next: Understand (day 1)
+

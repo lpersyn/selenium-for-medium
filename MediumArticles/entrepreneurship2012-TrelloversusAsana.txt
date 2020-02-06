@@ -1,0 +1,29 @@
+For the past several years Ive undertaken many initiatives to get more organized, which basically means to make another attempt at implementing and running a solid task list that I can share with others with whom I collaborate.
+I seem to be really good at kicking off well-structured lists, but less good at working them.
+I know theres no real point in creating a task list if youre not actually going to open it up and parse through tasks.
+My working theory is that the best task lists would be fully integrated with email since thats where we spend much of our working lives anyways.
+I guess I should therefore check out Streak, which several people have suggested.
+And Ive promised myself that I would sign up for Boomerang, which Im genuinely excited to give a go at. I think Ill add that to my to do list.
+But my latest fascination has been with Asana and Trello.
+It started simply enough. Like most products, I heard a lot of hype about Asana so I thought I better check it out to see what it was all about. I enjoy playing with new products and figuring out how I might use them to make my life  or the world  a better place.
+Asana is a group collaboration tool. I built two companies around this concept so I know a thing or two about them.
+I set up some simple tasks in Asana and then invited my small work group at GRP to share some tasks. I didnt want to roll it out too broadly in our organization until I had tested it.
+It worked well but it felt like a bit of a souped-up online spreadsheet task list to me. I think it would work really well in an 810 person team (or more) and where you had a lot of process-driven people. It might go really well on a product team or in a marketing department. But I never really collaborate with more than a handful of people on any given project.
+And Im not much of a process weenie so unless somebody else manages to keep updating the tasks and working the lists it was going stale too quickly. I found myself not really using it enough.
+Then I heard about Trello, built by Joel Spolskys team.
+I thought Id give that a whirl. I knew Asana was getting rave reviews from friends but maybe there was something not quite working there for me.
+Trello is essentially trying to solve the same problem. But Trello is quite visual. Its build around the concept of boards (projects) and cards (grouping of things you need to do).
+I found Trello a bit more intuitive for the way that my brain works. Im quite visual and having things organized into cards (containers) that hold tasks was a good metaphor for my way of organizing. And I love the idea that I can then invite in my colleagues into certain co-working spaces and assign tasks, keep track of progress and have people assign me work to do. Mostly I like assigning work ;-)
+But Asana is built by a clever team and I noted that they raised $28 million from a-list investors and I generally like to think about where the puck is going rather than where it is today. And thats a lot of dosh to build a killer product roadmap.
+And I do like the fact that Asana is only in one business whereas the Trello team seem to have a few projects.
+What to do? I wanted to double-down somewhere and roll out a collaboration tool more broadly at GRP.
+So with this to-do list malaise I set out to Twitter to find out what I was missing from people more process driven than I.
+And heres what I found:
+Then I realized that I should have just gone to Quora, which for tech answers usually seems to have an answer waiting even before Ive asked it. This chap Gudjon Mar Gudjonsson has totally nailed it for anybody looking for a great overview.
+In short he says
+Its like BMW vs. Mercedes. Taste plays a role. ;-) In a nutshell my personal view is that:
+And when I read his well-thought-through descriptions of the pros / cons I found myself nodding a lot.
+I think Im going to stick with Trello for now and keep an eye on the UI evolution of Asana. Hopefully some enterprising entrepreneur will build a tool to port between the two in case I ever decide to change ;-)
+I know theres other tools, too. A few people mentioned Do.com and tech teams seem to use Pivotal Tracker much.
+What do you think? Are you using one of the tools? What is working well for you and why? If you switched from Asana to Trello or vice versa and have experience with both  why are you happier with one versus the other?
+

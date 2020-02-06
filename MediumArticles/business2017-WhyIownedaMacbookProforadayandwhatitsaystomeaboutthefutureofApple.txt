@@ -1,0 +1,89 @@
+On Saturday I bought a new Macbook Pro with touch bar. And on Sunday I returned it.
+The only surprising part of this is the fact I returned it so soon.
+I was expecting to keep it for maybe a week. Certainly no more than the 14 day return period Apple offer on all purchases.
+You see, I never intended to keep this computer. I basically abused their return policy whilst they repaired the second broken MBP Ive had in a few months.
+I dont feel great about it, but I dont feel too bad either considering my experience with Apple over the last nine months.
+Ultimately the fault lies with them, their generally terrible customer service policies and a design/manufacturing fault with the late 2016 15" Macbook Pro touch bar model. A fault that Ive yet to see them publicly accept despite the fact it is accepted internally, has a fault code, and internet forums and youtube are full of people reporting the same problems.
+Many of these people are being forced to pay out of their own pockets for expensive repairs even though there is, what seems to be a secret, repair programme in place.
+Hopefully this article might help one or two people get what they deserve from Apple.
+The short version of this story is if you have a late 2016 15" touch bar model and you have problems with noises or the screen, go to Apple and, unless you know youve done something stupid like dropped it or put a hammer through the screen, demand they fix it or replace it.
+The full version below is much longer and quite boring. But its here for public record and to get it off my chest more than anything else.
+In December I bought a 15" Macbook Pro with touch bar. Id read the reviews. They were mixed. It was generally accepted that they were too expensive for what they are  even by Apples standards  and the switch to USB-C meant using dongles until the world catches up.
+But I needed a new Macbook and it was the best option. I expected to be a bit disappointed in the cost/feature ratio department  and the dongle nonsense  but what I didnt expect was 9 months of stress, arguing, character assassination, lost time and money.
+It started badly with the computer making random noises. Creaking, squeaking, cracking  I never could decide the best way to describe it, maybe it was all three.
+It would happen randomly. Sometimes when I wasnt even touching it. Other times when I was typing and took my hands away from the side of the touchpad where they normally rest.
+I also noticed a strange hollow metallic sound when I lightly tapped the side of the touchpad. I tried the same thing on other Macbooks in the house and they didnt make the sound. I tried it on the same model in stores, and none of them made the sound.
+I reported it to Apple but they dismissed it.
+Then things took a noticeable turn for the worse.
+I opened my Macbook one evening to find the screen black and what I thought was a bit of dirt or dust in the middle, just under the web cam.
+I gently brushed it away  or tried to  but it wasnt dust. It was a tiny crack. And brushing it  I cant stress how lightly  caused it to crack right down and off to the center right of the screen.
+It was, to be as polite as I can under the circumstances, totally buggered.
+Now, what was interesting about this was although my laptop now had no working screen, amazingly all the creaks and squeaks and cracking noises had stopped.
+A strange co-incidence some may say. Or proof that there was something wrong with the case and/or screen, as I believed.
+I live in Malaga  although my business is in the UK and the laptop was bought in the UK  so I took it to the Marbella store. A good hour journey each way, plus a toll road  unless I want the journey to be even longer.
+This is where things started to get nasty and Apple  who have been testing my patience for a few years  really did their best to get rid of a customer who has so many Macs listed on his account, plus lots of other Apple devices, that sometimes they get confused which one they are dealing with.
+They immediately told me it was my fault. They claimed it had to be. They said once a screen leaves the factory, if it breaks, it is always the users fault.
+I had a thin web cam cover on and they tried to claim that was the reason it broke. I suspected they might try that and it did cross my mind to take it off before showing it them, but I decided there was no need as it wasnt the cause.
+The company that makes the covers claimed to have never had a complaint about it and Ive not found anything online about similar problems. A couple of Mac store workers told me quietly that it absolutely had nothing to do with it, but they werent the people making the decisions.
+I know for a fact I didnt break the screen. I know the noises the case was making. And I know that once the screen had cracked the noises stopped.
+But Apple didnt care. They continued to insist it was me who did it. They called me a liar.
+Eventually  because I refused to give in  they offered to repair it as a one-off gesture. But I didnt want a repair, I wanted a replacement. This was a new computer that had been faulty  I believed  since the day I got it. Why should I have a new computer repaired? And why should I go for up to 2 weeks without it? I do have older Macbooks lying around in various conditions but thats not the point. I have this one for a reason.
+During all this discussion one member of Apple staff actually told me Theres the law, and then theres Apple policy and he wasnt talking about their policy being stronger than the law. I tried to give him the benefit of the doubt at first  hes Spanish and he was speaking a second language  but no, that is what he said and thats what he meant.
+No Apple. There is the law. Thats it.
+Anything Apple want to do above that is great, but the law is the law.
+I ended up going back to the Manchester store where I bought it. I was flying over from Spain anyway to get married at Manchester Town Hall.
+We were only there a few days and I spent a number of hours, on the Saturday before I got married on the Sunday, debating with the manager and several members of the Apple staff there. A couple of them were actually very good and supportive but overall it was a very stressful afternoon.
+Eventually, when they finally realised I was serious and I wasnt going to leave the store otherwise, they agreed to let me swap it for a new one. Actually, thats what I thought they meant, but what they really meant was they would refund the near 3000 the laptop cost on to my card and let me buy another one. Of course, it would be a few days before the money from the refund was back in my account but 
+So I bought another one there and then. I was pleasantly surprised to find they had the top spec model in-store (normally you have to order them) which Id originally wanted but wasnt available at the time, so I bought that. A faster CPU, faster graphics card, 1TB drive etc. So another 3,300 off my card and I finally left with a brand new Macbook Pro to replace the one with the broken screen. Oh, and my very-future wife bought an Apple Watch while she was waiting.
+All that done, I could get on with getting married.
+That whole experience left me furious with Apple. But it was to get worse.
+The new one made the same noises. Actually, they were subtly different, but it made noises it shouldnt.
+As Id just got married, and Im generally always busy anyway, I didnt get around to calling Apple about it for a while. I should have done. And I kept meaning to. I should have called them straight-away.
+But then something else went wrong  the keyboard started playing up and some keys didnt respond fully  which meant I had to call them so I reported the noises on the new one too.
+Eventually I was passed on to a senior telephone advisor  a wonderful, friendly and knowledgable Scottish chap called Alasdair  who really listened to the problems Id faced with the last one, all the stress Id gone through, and asked me to send him a video of the noises this Macbook was making.
+He passed it on to engineering in California. Hed heard some other reports of similar problems. He was the first to admit that to me. Everyone else up to now, both Marbella and Manchester, and telephone support, had said they had never heard of anyone having similar problems.
+They only had to look at Mac forums or Youtube to see it being reported but thats one thing I learned through this experience. Even senior advisors at Apple have very limited access to the internet at work, which doesnt just show a shocking level of trust in their staff, but is a genuine hinderance to their ability to do their job. Its less surprising they havent heard about problems from customers if they cant read the forums their customers post on.
+A few weeks later Alasdair got in touch. Apple HQ had accepted there was a fault with the late 2016 15" Macbook with touch bar that was causing the noises.
+And the fix?
+A free screen replacement.
+I still dont know exactly what the connection is between the screen and the case noises. Maybe the screen wasnt set properly in the case? Maybe the case was putting pressure on the screen? I just dont know, but  as I knew when my cracked screen caused my Macbook to stop making the noises  they are obviously linked.
+Another trip to the Marbella store  which I was told I had to do and I couldnt do over the phone even though the outcome was inevitable  resulted in them ordering the parts. Another afternoon gone, two more tolls paid.
+The guy I spoke to then knew about the problem immediately. He told me Apple stores around the world had been getting complaints for months. He told me that theyd known about it for a while but its a numbers game  until enough people complain, theyd deny it.
+I also had to put further pressure on Apple to agree to replace the keyboard at the same time but eventually they did agree.
+Having just had a baby daughter, its taken a few weeks for me to get around to taking it in for repair after they got the parts in. I had to tell them Id be delayed otherwise they would have used the parts for someone else and Id have to start over again.
+I still thought, and still think, I deserved a full replacement. This machine left the factory damaged. As did the one before. I dont think its unreasonable to expect  for 3,300 a computer that hasnt had to be repaired so soon because of a design or manufacturing fault.
+But frankly after 9 months, Im so tired of the arguments, and busy with my baby daughter, that I agreed to the repair.
+Which takes me back to how this article started.
+Apple, in their unquestionable wisdom, refuse to lend replacement computers when a machine has to go in for repair. I can understand this as a general policy, but sometimes  like maybe when youve had two laptops costing around 3k each in the space of 3 months, both faulty from the factory, countless trips to various stores, travel costs, petrol, toll roads, days off work, been called a liar etc  sometimes, you think theyd find a laptop to lend.
+But no, they simply refuse.
+Amazingly, a number of staff over the months suggested the solution I eventually used  to buy a new Macbook with the express intention of using it while mine was repaired and then return it under their 14 day returns policy. At one point I even considering buying everything I could afford just to mess with them. But I decided that was a tad childish.
+When I took my Macbook in for repair on Saturday I was given the usual up to 2 weeks timescale for the repair. So I bought the replacement and copied my laptop over in the store before handing mine over. It took around two hours.
+Then, yesterday, less than 24 hours later, I got an email saying my computer was ready for collection. Its had a new screen put in and a new top case (including the keyboard). The bill  had they charged me  would have been just under 1000 euros.
+So last night I went back and collected my repaired computer. Credit to Apple for repairing it so fast, perhaps someone read my case notes and realised thats the least they could do.
+And credit too to the staff member who processed the refund. They presumed I was returning it because it was a a Spanish keyboard (I gather thats a common reason for British people to return them in Marbella), but I told him the truth. He agreed the no-loan policy is far from perfect and I had no problem getting a full refund.
+But what an absolutely ridiculous position to be in. That computer  that I had for 24 hours  is now used. I dont know what Apple do with them, but they cant sell it for full price as new, because its not.
+Hey, heres an idea. They could use it to lend to people who have computers in for repair
+So, after 9 months of being treated like crap by a company Ive (nearly) always loved, I now have  hopefully  a fully working Macbook Pro for the first time since December.
+So far, no creaks or squeaks or cracking noises at all. And when I tap it, I get a nice solid thud, not the hollow metallic sound the last ones had (ok, I dont need to tap it any more, that was just to show there was a problem)
+And the keyboard is working properly too.
+Amazing.
+Despite Alasdairs great telephone support, and a couple of in-store staff, Im afraid my view of Apples customer service in general is still poor.
+I wouldnt treat one of my customers like this, and my company doesnt have a couple of hundred billion dollars of cash in the bank like Apple do.
+They used to  or at least I seem to remember they used to  act like a prestige car company. Stupidly expensive, yes, but in return the dealer knows you by name and they treat you as more than just another faceless customer.
+Sadly Apple seem to have stopped trying to be the Porsche or Ferrari of computers, while keeping the same prices  or, in the case of this Macbook range, actually putting the prices up  but decided to adopt the customer services policies of a dodgy used car lot.
+And Im not even going to start on the physical quality of the new machines. Thats a whole story in itself. Lets just say they long passed the point of form over function and they need to remember a notebook is a portable device.
+I hesitate to link the changes at Apple directly to the death of Steve Jobs. I admired him in many ways but I was never a fanboy of either him or Apple. But the change in Apples attitude does seem to co-incide with his death and Tim Cooks leadership.
+If I didnt need certain applications Id use Linux on a non-Apple laptop (I use it for servers already). And itd take a lot to drag me back to Windows. So, for now at least, I feel Im basically trapped into using Apple products (although the Hackintosh concept is interesting).
+When you combine a feeling of being trapped into a product, with large price increases and appalling customer service, its very easy to lose long-term customers.
+Not everyone hates Windows like I do, or needs certain apps like I do. And those are the customers who will soon be looking at the choices available and increasingly picking something other than a Macbook.
+I hope Im wrong. I dont want to see Apple collapse again like it did the last time Jobs left the company. Especially as this time Jobs can never return.
+It wouldnt take that much to fix it. They have the cash to do it. They have the cash to do anything they want.
+The fact they dont suggests its either that the management dont know whats going on and dont pay attention to their customers, or its a deliberate decision to treat customers like this.
+Neither option is good for the long-term future of the company.
+Apple, please, fix these basic problems. Hold your hands up when you make mistakes. Treat customers fairly. Apologise to them when youve mistreated them (you can even apologise for calling me a liar if you wish). Start putting yourself in the shoes of your customers before making rigid blanket policy decisions.
+And, basically, just generally try to do the right thing. Its not hard to work out what that is. All of you at Apple  even Tim Cook  are customers of many companies too. Think how youd like to be treated and take it from there.
+Damn it, Ive just given away my planned business book for free. It was destined to be a best-seller. Oh well, here it is in full.
+Chapter 1. How to run a business  Think like a customer. The End.
+Ive read about other people not putting up the same level of fight I did over this fault  and I dont blame them  who have ended up paying Apple to repair the damage they did to their Macbook. If youve done that with this model, I urge you to go back and demand they return your money.
+In the meantime, Ill get back to work using my newly repaired Macbook  pleased it is fixed and working properly, but forever resentful of the last 9 months of stress and arguments, and dreading something else going wrong with it.
+

@@ -1,0 +1,68 @@
+I tried to keep the notes below simply to what Eric wrote with no editorializing by me. I claim no original thoughts of my own with the exception of a well placed youtube clip or two.
+So, yeah.
+In a nutshell, The Lean Startup is about taking the scientific process to this question:
+How can we build a sustainable organization around a new set of products or services?
+Since our productive capacity exceeds our ability to know what to build, the question to ask is never can it be built?, but instead, should it be built?
+This is because Erics stated goal of innovation is to learn that which is currently unknown. It is not to efficiently and quickly build something to see what happens, simply because we can.
+In order to learn, failure must be an option, and failure while learning must be accepted within the organization. If you cannot fail, then you cannot succeed. You can only do, and there is no bigger waste of startup time than doing without it leading anywhere.
+Do work that leads you to learn about what works and what doesnt work.
+The differences between startup success stories and startup failure stories are that the winners in success stories were able to discover which parts of their plans were working, which parts were misguided, and then properly adapt their strategies accordingly.
+Validated Learning and Innovation Accounting
+The point of early stage startups is to achieve as much validated learning as fast as possible. The means by which a team is held accountable for their progress in validated learning is through innovation accounting.
+Innovation accounting allows a team to:
+The three major learning milestones in innovation accounting are:
+Validated Learning Techniques
+The primary engine for keeping the learning process moving forward is the Build-Measure-Learn feedback loop. The faster a team can go through the loop, the faster they can learn, and theoretically, the faster they can create a sustainable business.
+It doesnt matter how fast you can build, measure, or learn individually. It matters how fast you can move through the whole loop. These are three techniques Eric discusses at length:
+Eric specifically suggest that teams:
+When deciding what and how to report findings, his key advice is:
+For a report to be considered actionable, it must demonstrate clear cause and effect.
+When managing tasks, tests and other initiatives Eric suggests that nothing is done until validated learning had occurred  in other words  knowing whether the task was a good idea to have been done in the first place.
+Learning Milestones Rather Than Success Theater
+By focusing on learning milestones, entrepreneurs can make decisions based on facts discovered through experiments, rather than simply tracking up and to the right style metrics.
+If you hold yourself accountable for learning, then you will not waste time or resources proving your success. Do not fall back on success theater gimmicks.
+Get out of the building
+Finally, after all that data collection, you still must get extensive contact with potential customers to understand them. It is unacceptable to take anything for granted or to rely solely on the reports of others.
+In the beginning, everything is an assumption. In order to bring the scientific method to learning about your startup, you need to start writing hypotheses.
+All feedback loops begin with writing a falsifiable hypothesis that tests a pressing assumption.
+Every change to the product requires a hypothesis, or a team is not learning and therefore wasting time. Big time strategy also require hypotheses.
+The two highest level strategy hypotheses are:
+These are what Eric calls the leap-of-faith hypotheses that start the whole enterprise. If (and most likely when) these initial hypotheses are proven wrong or partially wrong through innovation accounting and build-measure-learn feedback loops, a pivot needs to be considered.
+Pivoting
+A pivot is a specific kind of change designed to test a new fundamental hypothesis about the business, product, and growth.
+Erics catalogue of pivots include:
+A few generally misunderstood components of pivots are:
+You have to repurpose what has been built as a means to find a more positive direction. One foot firmly planted where youve been and what youve learned, one foot moving where you want to go.
+A startups runway can measured by the number of pivots it has left before running out of funding or establishing a sustainable business.
+Engines of Growth
+Each engine of growth can be defined quantitatively, and each has a unique set of metrics.
+Viral
+Metric: Viral coefficient
+Positive growth looks like: Viral coefficient > 1
+Sticky
+Metrics: New Customer Acquisition (NCA), Customer Churn Rate (CCR)
+Positive growth looks like: NCA > CCR
+Paid
+Metrics: Lifetime Value (LTV), Cost per Acquisition (CPA)
+Positive growth looks like: LTV > CPA
+Note: long term success depends on a differentiated ability to monetize a certain set of customers.
+It is possible for engines of growth to run out. This happens because engines are tied to a segment of customers, their habits, and their advertising channels. Early on, it is wise to focus on one engine in order to keep the learning process simple.
+Engines of Growth Need to Foster Sustainable Growth
+It is important that the team strives for sustainable growth and not rely on events or one-off promotions.
+Sustainable means that new customers come from the actions of past customers.
+There are four primary ways past customers can do this:
+It is imperative that entrepreneurs within any organization:
+Do Work in Small Batches
+Doing work in small batches allows teams to work better cross-functionally (not necessarily more efficiently). By shipping small updates continuously, errors, problems and negative feedback are discovered earlier on in the process. This makes it easier for the team to respond rapidly.
+Value the System Over Individuals (but not in the Taylorian sense)
+There is wisdom and initiative hidden in every factory worker  efficiency is best measured not on individual tasks (waterfall management with achievement accounting), but in the system as a whole (cross-functional management with innovation accounting). By making teams accountable for success as a whole, individuals are less inclined to worry about maximizing individual productivity (which can lead to unnecessary work).
+Root cause analysis
+Eric is a major advocate of using the Five Whys method of determining root cause and creating solutions that fix core issues, not band aiding a symptom. In order for this method to be effective, company culture and senior management must believe that people dont fail, processes and incentives fail. Managers should feel ashamed when a preventable mistake happens.
+A simplified version of the Five Whys for those getting started is:
+Be tolerant of all mistakes the first time. Never allow the same mistake to be made twice
+Discovering the cause is not enough, you must allow for fast reaction and find simple solutions to fix the problem. If there is not a simple solution, make the problem smaller or implement a solution around a smaller, more specific pain point.
+Pull work from your need to prove a sustainable business model
+It is important that startups do not get caught (for the long term) in the consultingware trap. It is easy to do this when a team allows their to be driven solely by customer feedback. Instead, work should be derived from the teams hypothesis about the customer.
+Work stems from experiments that must be run in order to validate a hypothesis made in effort to learn more about creating a sustainable business.
+For those of you who dont spend your days looking at Hacker News and Techmeme, I hope this served as a nice introduction. The book is a nicely packaged summary of 4 years of Erics writing at his Startup Lessons Learned blog. If you are remotely interested in how and why a lot of web software companies approach problems, that blog is a good starting point to learn more.
+

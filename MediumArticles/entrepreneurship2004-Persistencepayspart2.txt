@@ -1,0 +1,38 @@
+I thought I knew about persistence from the funding process (see yesterdays post). In reality, I didnt know squat. I was bush league. But, I was about to learn from the master, Vinod Khosla.
+Vinod and Geoff Yang funded Excite in January of 1995. And, pretty quickly we ran into a bet-the-company scenario where a real persistence lesson was learned.
+Back in those days, the Netscape browser had two buttons in the chrome that dont exist today. They were called NetSearch and NetDirectory (NetSearch, of course, became Search but NetDirectory disappeared into the ether). That summer, Netscape let it be known that they were going to put the destinations of those buttons up for bid. Previously they had given, for free, the NetDirectory button to Yahoo and the NetSearch button to Infoseek.
+This was the premier beachfront real estate on the web up for bid. We were terrified. We needed to get it.
+Heres were the facts as we knew them:
+Fact 1: There were at least three bidders for the two buttons: us, Infoseek and MCI (they had a yet-to-be-launched web search and directory product that, I think, was going to be called Genuine).
+Fact 2: We had a little less than $1,000,000 in the bank.
+Fact 3: We were screwed.
+We were screwed because we didnt have enough money to compete. How were we going to outbid MCI? A freaking phone company? Infoseek had more money and more users.
+We gathered the troops and I distinctly remember sitting on the floor of my office with a big chunk of our small company and Vinod. And suddenly the right answer appeared.
+We were going to bid $3,000,000.
+It was Vinod who suggested it. Forced us into really. We had $1M in the bank and we were bidding $3M. How was that going to fly?
+Vinod made a critical point. If we dont get this deal were nowhere. If we do get the deal, we can probably raise the money on this victory alone.
+Strangely enough it felt right. A bit irresponsible perhaps, but in reflection it was truly a bet-the-company moment and we bet big. It was appropriate.
+We did all the things youd associate with trying to win a deal once we decided. We submitted our bid. We took people out to dinner. We made our case constantly. And in the end
+We lost.
+I was heart broken. We lost. Honestly, I thought we were dead.
+Then, Vinod told me a story. It was a story about the early days of Sun Microsystems which Vinod started in 1982 along with Scott McNealy, Bill Joy, and Andy Bechtolsheim.
+Sun was a fledgling company, 40 people perhaps, and a deal of critical importance was being bid. Computervision was the name of the company and Sun was fighting for the deal with the 100 pound gorilla of the day, Apollo. Sun had pulled out all the stops to win the deal. They knew it was a bet-the-company opportunity  all or nothing.
+The deal was worked for months. Then, one day in July a phone call came in to Vinod. As Vinod tells it
+It was from a purchasing guy from Computervision and that was terrible. You never want to hear from a purchasing guy, because that means you are getting a rejection. He thanked us very much for bidding on the contract but said they had chosen another vendor.
+By the time Vinod got this call, the decision was baked.
+Apparently, Computervision had made the decision long ago. By now, there were Computervision technical people from Europe who had arrived here for technical training, at Apollo. It had gone that far. They were on crossing the Ts and dotting the Is on the contract.
+It was over.
+But, heres what Vinod did.
+I took over. By 6:00 p.m. I had sent off a letter, Federal Express, to about 30 or 40 people at Computervision. I said we would do anything for their business.
+I didnt go home; I had my wife bring my clothes to the office, and I caught a red- eye to Boston.
+The next morning, I was in the Computervision lobby, making phone calls, trying to see someone. Nobody would talk to me.
+Turns out, after 50 phone calls, he got through to the VP of Sales and Marketing and through a chain of events and two days of non-stop work where no-one was let out of the hotel room in which they were meeting, Vinod threw out Apollo and signed the deal with Computervision. The rest, for Sun, is history.
+It truly is an amazing story. If you ever get the chance to hear Vinod tell it, take the opportunity. Cancel whatever it is you have planned and hear it.
+Back to the Netscape deal We had gotten a similar call. We had lost. Infoseek and MCI had won. But, taking a lesson from Vinods, we continued to press on as if the bidding was still open. We called everyone we knew at Netscape, we sat in their lobby asking for meetings, we persuaded others to call on our behalf. We begged. In general, we made a total pain in the ass of ourselves.
+And you know what? It worked.
+About 20 days after we were told that we had lost, the door opened just a crack. MCI had a hiccup. Their product wasnt ready.
+Within 24 hours, we had the deal.
+I can honestly say that if we hadnt persisted, hadnt pushed through when it looked hopeless, hadnt let Netscape know that at the slightest opportunity we were ready to go, that deal would have never happened and Excite would never have had the run it had.
+I became a true believer in persistence and its the #1 lesson I try to bring to the companies I work with. Things are NEVER over. The deal youre working may look closed or the candidate youre trying to recruit may have said no, but thats when the real negotiating starts.
+Thanks Vinod.
+

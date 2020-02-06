@@ -1,0 +1,13 @@
+Over at Vitamin they are playing the guess the valuation game with the seminal Web App, Basecamp. Presumably, the guys at 37signals dont have Basecamp up for sale, but this is an interesting exercise to work through for anyone whos ever thought about selling a business of any kind, including a web app.
+
+Valuing a business is a very difficult thing to do. The only true valuation of a business is what someone is willing to pay for it. In this case since Basecamp isnt for sale, we have to look to other metrics to value it. A common approach is to look at comparables. This means comparing Basecamp to other businesses that are similar that have sold. Ryan suggests some in his post. While they are all recent Web 2.0 era deals, I would argue that MySpace, Weblogs, Inc, Upcoming.org, and YouTube arent really appropriate because they are advertising-based business models. Skype is in a different realm altogether. But, MeasureMap, Writely, and Rojo, might be comparables because they are web apps, or services that people would pay for (or not, depending on if Google buys you and re-releases your service for free hint hint Basecamp).
+
+Although we have presumed valuations for each of those companies, we dont have the necessary metrics to compare each of them to Basecamp. However, thanks to Ryans transparency with the sale of Dropsend, weve got a lot of information to compare DropSend and Basecamp. So, lets get started.
+
+To follow along with our analysis, please open up the Google Spreadsheet here, or see the PDF version here.
+One thing that I always apply to calculations like this that involved a lot of assumptions is whether or not it passes the smell test. If we would have come up with a couple hundred thousand or a number in the billions, I think our metrics might have been off, but $50 million seems like an appropriate valuation. The interesting thing is that this is a number that was tossed around in the comments a few times by other readers on Vitamin.
+
+So, good luck to Ryan with the Dropsend sale. When it sells, and probably for more than the baseline $900,000 that we used for this calculation, that will drive up our valuation for Basecamp. And to the 37signals team, were interested to see if there is any action with Basecamp over the next year. I predict that there will be, but with annual revenues where weve calculated them to be, they might just want to hang on to their cash cow.
+
+Wed love feedback from our readers on our valuation, and of course if anyone wants to confirm or correct our calculations or assumptions, please feel free.
+

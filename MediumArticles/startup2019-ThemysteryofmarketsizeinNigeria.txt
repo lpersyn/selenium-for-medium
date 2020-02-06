@@ -1,0 +1,65 @@
+The technology ecosystem in Nigeria has failed so far to deliver the number of multi-million dollar exits that we have seen in other emerging markets like India and Brazil. Many solutions fail to reach scale.
+This is probably due to a whole number of factors. But according to CB Insights, the number one reason why start-ups fail is no market need for the product. In other words, there was no customer/not enough customers.
+This article will be taking a deep dive into the successes and failures of the ecosystem whilst trying to understand the market size/characteristics in Nigeria.
+Lets explore some statistical facts about the local market which may give an indication as to the different characteristics of the markets we need to be innovating for:
+1. According to the World Bank there are almost 200m citizens in Nigeria.
+This should mean a thriving market for consumer products. However, even established companies like Proctor & Gamble and PZ Cussons with their multi-million dollar market research teams, focus groups & decades global experience, seem to have misunderstood this market as this video explains.
+According to the research presented, the number one concern from the average Nigerian consumer is price.
+2. According to the NDIC, 98% of Nigerians have less than N500,000 ($1,250) in their accounts. And of course you have to consider the fact that the poorest Nigerians are unbanked.
+Anything you are selling to the average Nigerian is competing with food.
+On average nearly 60% of a Nigerians income is spent on food. But this average is spread across all segments including the rich. So we can assume that most Nigerians are spending 80%-90% of their income on food.
+In the North-East of Nigeria, 121% of income is spent on food.
+3. In India, there are almost 60,000 millionaires in Mumbai city alone.
+This is important because it gives us an indication of the amount of wealth (and therefore spending power in the high end segment) in each of these cities.
+Whereas in Nigeria, there are just 12,300 millionaires in the entire country.
+4. Over half of card transactions occur in Lagos State according to Interswitch
+5. A total of 15.2 million passengers passed through Nigerian airports in 2018, another pointer to the size of the Nigerian middle class. Compared to the 341 million passengers, that passed through Indian airports during the same period.
+6. Size of the economy in Nigeria is about $400bn vs the state of California at $3tr
+7. The biggest companies on the American stock exchange are companies like Google, Facebook and Amazon. They sell Internet search services, cloud storage services, e-commerce services. They continue to launch new ventures that specialize in advanced robotics and artificial intelligence.
+The biggest company on the Nigerian stock exchange sells salt/sugar/pasta and cement. In the next two years, he will be launching a petrol company. Not artificially intelligent petrol, not 3-d printed petrol. The ordinary type that JD. Rockefeller was selling 100 yrs ago. There seems to be a marked difference in terms of market needs/what people will pay for. Alhaji understands the market and therefore continues to win.
+Tech companies that have scaled successfully in Nigeria to $1b include MTN (a cell phone company) and Interswitch (A payments provider).
+Notable non-tech companies that have achieved this scale include companies like Dufil foods (Instant noodles) and Chivita (A cheap juice drink aimed at poorer Nigerians).
+To scale in Nigeria products need to be affordable, accessible and acceptable as I described in my article, how to make $1bn in Nigeria.
+8. Nigeria is one of only 8 World Bank red zones. These are the only countries on the planet where GDP per capita (an indicator of individual share of wealth) has fallen steadily over the past 20 years.
+This article from Indian entrepreneur Sajith Pai, provides some insights. He divides in India into four mini Indias; India I, India II and India III.
+India I is the upper class earning $9k per annum( N3.5m yearly ).They number about 110m (roughly 25% of airport passengers) and there are many tech start ups designed to cater to them.
+They have to be super-targeted. He calls the start ups that cater to the super rich segment of India I , avocado start ups.
+This article from Livemint, tries to analyse why so many Indian start ups are focused on this super rich segment, that is virtually non-existent in Nigeria.
+It quotes Satyen Kothari an entrepreneur who started a mass market payment service, which he recently had to spin off into a wealth management tool for the rich, as saying:
+If you look at discretionary income, where people are able to spend beyond basic needs, that is only with 50100 million customers. The per capita income of the rest of the country is too low to support discretionary spends. If one wants to build a business in India that makes sense and has hopes of being profitable you need to have customers who pay for convenience
+He goes on to say something very instructive for Nigerian tech innovators and investors:
+You may want to build mass market businesses,but pretty soon you realize that the unit economics become prohibitive. India doesnt have the spending power or infrastructure or ecosystem yet to support profitable businesses on the internet for the masses
+However, these start-ups often find themselves looking for growth beyond this segment and thats where it gets tricky.
+India II is the regular working class Indian. The equivalent of the middle class Nigerian.They have jobs. A proportion own smart phones. They number about, 104m in India.
+Few start-ups in India have been able to move from serving India I clients to India II clients as India II clients are significantly poorer. In Nigeria, tech companies like whataspp and facebook have been able to service them; however, I am not sure whether they have been able to profit from them.
+India III are what we call in Nigeria the masses . The bulk of the Nigerian population is poor, semi-literate, analogue & can only afford very basic needs.
+Uday Marepalli shares some useful market insights that we should all consider when trying to figure out what the addressable market is for a particular product.
+The most interesting statement that he makes that that:
+There is a massive difference between people coming online and transacting online
+He also goes on to point out that of the Indias top 41 private consumer Internet companies, only one generated a profit in the fiscal year ended March 2016.
+In 2016, 60 million people shopped online in India; 14% of the total internet user base.
+Nigeria also has the additional problem of data costs. The cost of 1GB in Nigeria is roughly $2.78, compared to $0.26/GB India. So internet is over five times as expensive in Nigeria compared to India which makes a huge difference for poorer customers.
+Vikrams tweet looks at various data points to try to establish a rough idea of the addressable market for a B2C business in India, which he estimates as circa 50m.
+To make things more difficult.
+It is estimated that there are about 110m Indians (India I) with income above $9000 per year. This demographic makes up the bulk of the market for Indian tech products, its responsible for the large exits and the rapidly scaling products.
+However, according to Mckinsey & Co, only 2m people in Nigeria have purchasing power and annual incomes over $10,000.
+This means the size of Nigeria I is 2m compared to India Is 110m!!!
+Products aimed solely at Nigeria I ,would almost certainly fail to scale, unless they are super-targeted.
+So we are left with Nigeria II & Nigeria III.
+Nigeria II probably number about 8092m. The start-ups of the mobility mafia; uber, bolt, gokada; to some extent, Jumia, Konga primarily target the bottom half of Nigeria I and the top half of the Nigeria II market in Tier 1 and Tier 2 cities (Warri/Ibadan/Kano/Calabar/Abeokuta).Many struggle as this segment is large, but more fragmented that I.
+Also Nigeria I&II, sometimes want different things, so its very difficult to serve them simultaneously.
+A Nigeria I client would complain about the type of cars used on Uber for example. But obviously there are not enough people in Nigeria I to justify an Uber black service. However, Uber even at its low price point and with the low standard of cars used, still remains a luxury for people in Nigeria II.
+My Igbo brother and blueberry shopping partner Emeka Okoye said this in an article for Quartz E-commerce did not come up in Nigeria because there was an opportunity, it came up became it was hot globally
+According to the World Poverty Clock there are over 90m people living in extreme poverty, they live on less than $2 per day and make up the bulk of Nigeria III. They cant afford food, have limited access to clean water and education and dont own smart phones.
+There are services like GTB *737 that serve all segments to some extent. E-banking income at GTB, according the the last report was up N9.59bn in 2018.
+However, surprisingly First Bank still takes more total deposits than GTB on a yearly basis. Nigerian banks function by taking as many deposits as possible them investing them in risk free assets like government treasuries.
+The physical infrastructure; bank branches that First Bank has in the most remote parts of Nigeria are still providing the bank with an massive advantage. This is despite the fact that GTBs product offers more of an advantage in terms of speed and convenience.
+So what can innovators, dreamers and investors glean from these insights?
+A lot of Nigerian techies complain that the quality of advice local investors/mentors give is terrible. They prefer the often unrealistic advice that the Silicon Valley investors who have never stepped foot in Africa give them.
+The truth is most silicon valley investors have never invested in businesses outside the state of California. Many of them are deceiving you, not out of malice, but because they dont realise the huge leg up a mature democracy with lots of cash to spend on research (Oga Donald Trump just invested $1.5bn in Quantum Computing), strong institutions, great infrastructure, security, freedom and the largest consumer class on the planet give them.
+JP Morgan, an American bank holds more in assets than the entire GDP of Africa. The state of California itself with just about 30m citizens has a larger economy, than all 54 countries in Africa with their different languages, cultures, currencies, trade barriers and security issues, combined.
+That means a tech company that scales in California is operating in a larger economy than a tech company that has scaled to every single country in Africa.
+We cannot compare ourselves to America in terms of the size of the economy they have to work with or the exact way their tech ecosystem runs. In fact as you have seen from this article, even Indians (yes the place you have been calling ordinary India) are NOT our mates. They have a much larger consumer class, better infrastructure and are way ahead in terms of skills/talent.
+This tech ecosystem in Africa will develop, with some learning from India, maybe even some from America,but largely due to to our own home grown skills, our big dreamers, our entrepreneurial ingenuity and most importantly DEEP understanding of our market.
+Thats all I have for you today. Remain blessed. Selah.
+

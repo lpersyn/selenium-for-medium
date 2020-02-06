@@ -1,0 +1,15 @@
+Josh is 4x startup founder and angel investor. He currently works at Amazon Web Services where he manages relationships with startup incubators and accelerators. Previously Josh was co-founder and CEO of Written, a venture backed content marketing company with a unique approach to building bigger and better audiences for brands.
+Prior to Written, Josh was co-founder and CEO of Zosh, an award winning suite of mobile apps for filling and signing documents which was acquired by HighTail (formerly YouSendIt). Josh launched the company at DEMO conference where he took top prize with a presentation that included smashing a fax machine on stage with a baseball bat.
+Josh also founded Ideal Science which created popular enterprise discussion forum software. Microsoft chose Ideal Science community software to power discussions for their game studios. Bungie Studios the creator of the popular Halo series partnered with Ideal Science to create a white labeled version for the launch of Halo 2. Other noteable customers included CNN, GigaOm, the FBI and US Department of Defense.
+Josh is an active angel investor, an EIR at Capital Factory, a founding venture partner at NextGen, and a mentor at Techstars.
+Josh has a Computer Science degree from the University of Texas at Austin.
+The following video is from the Capital of Innovation TV show aired on KLRU in Austin, TX.
+This TV show was taped shortly after my Zosh acquisition. It was the first pilot for a TV show that would chronicle entrepreneurs from Austin.
+This is the video that made me famous.
+This is video footage was taken at Demo Conference in 2010 where I smashed a fax machine on stage with a baseball bat.
+These are press links that Ive collected over the years about me or one of my companies.
+Download my public key to send me an encrypted message or find me on Keybase.io to verify my digital identity. My email address is joshkerr at Gmail.
+All opinions are my own.
+In early 2000 this is what my blog looked like:
+It hasnt really changed much over the years. My writing hasnt improved much either. This particular instance of my blog is self hosted on NFS using Octopress. The theme is modified from the default Octopress theme which is still one of my favorite blogging themes.
+

@@ -1,0 +1,14 @@
+There is much confusion on how to use the Twitter @ sign  even amongst daily Twitter users. So as part of my ongoing series Twitter Insights, I wanted to cover how the @ actually works (even experienced users may be surprised by some of the points)
+The basics:
+1. When you use the @username (e.g. @msuster for me) the message you write appears in my @msuster inbox on Twitter.com and on any of the desktop or mobile clients. Great.
+2. This is a good way to call something out to my attention since it is narrower than just broadcasting hoping that I might see the message
+3. It is also a sign of attribution when you retweet a message by another user (e.g. RT @msuster). People also use it in other obvious ways including suggesting users to follow such as #FollowFriday @msuster
+4. You can send an @ message to anybody  whether or not they follow you. You can only d people (direct message) who follow you.
+5. I am currently not overwhelmed with people who @ message me so I read all of mine. Usually in a timely manner. But if the person you @ has tons of followers (think Robert Scoble, Michael Arrington or any celebrities who use Twitter) dont assume theyll see your messages
+More advanced:
+1. This is important  If you send somebody a message and you START it with an @name then the only people who will see your message are people who follow you and people who follow the person you replied to. Most people dont seem to know this. For example, if you follow me but not @deblanda an I send her a message starting with an @ then you wont see it at all. Anyone who follows both of us will see the message. If you precede the message by anything, even a dash and a space like, - @deblanda nice to see you then everybody will see it.
+When does this come into play? Sometimes Ill see people who want to make people aware of a blog posting. Theyll say @msuster provides great insight into VC valuation discussions  see http://bit.ly/C5t6O" . They might have 2,000 followers. I have 1,200. Only the small subset who follow both of us, say 100, will see the message.
+So if youre really responding to somebody and you dont want all your followers to see it (but you dont necessarily want to send a private message via DM or you cant because they dont follow you) then start with an @. Otherwise make sure it has text in front of it.
+2. Equally important to know  If you reply to a message as above and therefore assume that only a small subset of followers will see the message  you need to be aware that anybody can proactively look at the message by clicking on your Twitter name and seeing all of your posts. If you truly want it to be private stick to DM or email (or better yet  telephone!)
+Did I miss any idiosyncracies? Make sure to add them to the comments.
+

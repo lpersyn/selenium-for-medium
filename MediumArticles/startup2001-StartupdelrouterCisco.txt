@@ -1,0 +1,17 @@
+Le fasi di startup di un router Cisco si possono riassumere in questi tre passi:
+Loperazione di boot dalla Rom  analoga a molti elaboratori ed esegue le diagnostiche di base che, in caso di successo, danno lavvio al caricamento del sistema operativo.
+La fase di caricamento dellIOS  normalmente effettuata con un ricerca nella FLASH memory ma pu essere anche configurata diversamente.
+Per default un router Cisco esegue queste priorit di ricerca per caricare limmagine dellIOS: FLASH, TFTP Server, ROM. Ovviamente se nulla  stato configurato a livello di boot system configuration.
+In pratica, agendo sul comando Router#(config) boot system si pu indicare lesatta posizione da cui attingere per il caricamento dellIOS.
+Una volta caricato il sistema operativo esso individua i componenti hardware testati dalloperazione di boot e li visualizza a terminale.
+A questo punto viene caricato il file di configurazione che si trova nella NVRAM. Nel caso non venga trovata un installazione valida, il sistema operativo avvia una procedura interattiva di configurazione basata su domande e risposte (setup dialog).
+N.B. La configurazione attraverso il setup dialog non  performante e consente le funzioni minimali di un router.
+Se tutto  andato a buon fine abbiamo la possibilit di visualizzare la configurazione presente in memora RAM:
+Router# show running-config o Router# write term
+e quella salvata in NVRAM:
+Router# show startup-config
+
+nel caso volessimo eliminare la configurazione presente in NVRAM il comando da eseguire :
+Router# erase startup-config o write erase
+In ogni caso, se dovessero fallire le configurazioni, se non fossimo sicuri del boot ecc. il router si pu riavviare con limputazione del comando: reload altrimenti possiamo passare al setup interattivo digitando il comando setup .
+

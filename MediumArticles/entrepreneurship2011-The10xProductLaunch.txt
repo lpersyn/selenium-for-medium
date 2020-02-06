@@ -1,0 +1,35 @@
+Youve painstakingly defined and built an MVP through 100+ customer interviews. Youve collected thousands of emails from potential prospects through a teaser page. Youre ready to launch. But
+The engineer in you is worried about some real technical risks. Youre pushing the envelope using a new type of database  is the database partitioned correctly, will it scale, should you wait and run more tests first?
+The marketer in you is worried about your pricing and positioning  can you justify charging for your MVP, are you delivering enough value, have you picked the right price, maybe you should wait to add a few more features, or defer charging to later?
+A popular solution is launching as a private beta  allowing you to incrementally rollout your product, keep early customer expectations at bay, and defer the pricing question under the guise of gaining more learning first. While this approach certainly appeases our inner fears, it is often the cop-out approach.
+The purpose of the MVP is getting your product in front of customers to start the process of learning but not all learning is equal. You need to prioritize learning around the riskiest parts of your product first.
+For most products, technical risk aint whats riskiest.
+Launching a new product can be daunting because you have to simultaneously juggle multiple product, customer, and market risks. Ive been fielding some of these tradeoffs lately with the upcoming launch of a new SaaS product  USERcycle, and devised the following 10x launch plan.
+Heres the general idea:
+Like the private-beta, the 10x launch uses a staged rollout. But unlike the private beta, it completely avoids any connotations around being in beta. You have to both demonstrate strong product conviction and be ready to rigorously test those convictions from day one.
+Additionally, the staged rollouts use a logarithmic step function (10x) that affords the right prioritization of risk at each stage.
+The Lean Canvas below charts the path I use for systematically tackling the 3 types of risks:
+1. First make sure you have a problem worth solving.
+2. Then define the smallest possible solution (MVP).
+3. Build and validate your MVP at small scale (demonstrate UVP).
+4. Then verify it at large scale.
+1. First identify who has the pain.
+2. Then narrow down to early adopters who really want your product now.
+3. Its okay to start with outbound channels.
+4. But gradually build/develop scalable inbound channels  the earlier the better.
+1. Identify competition through existing alternatives and pick a price for your solution.
+2. Test pricing first by measuring what customers say (verbal commitments).
+3. Then by what they do.
+4. Optimize your cost structure to make the business model work.
+Whats happening here?
+Whats happening here?
+Whats happening here?
+Whats happening here?
+Maximize learning (about whats riskiest) per unit time.
+You dont need a lot of users to learn. Just a few good customers.
+If you cant convert a prospect in a 20 minute face-to-face meeting, its much harder to convert an unaware visitor in 8 seconds on your landing page.
+Pricing is not only part of the product but defines your customers.
+Start building a path to customers from day one  start direct to maximize learning before automating.
+This 10x Product Launch strategy is only partially implemented at this stage with the USERcycle launch. USERcycle is a B2B SaaS product but I believe this launch strategy should work as well for a B2C product as long as you stay on the left-hand side for a while i.e. acquire users in steps of 100, 1,000, 10,000, 100,000, 1,000,000, etc.
+Whatever comes out of this experiment, I will share my learning along the way. In the meantime, please share your comments below
+

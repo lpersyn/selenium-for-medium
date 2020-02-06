@@ -1,0 +1,16 @@
+There is a lot of buzz right now about VCs current favorite business model: the freemium model. Since this is something that we are rolling out for SiteMighty, I decided to explore this a little further.
+
+So, just what is the Freemium Model? According to Katherine Heires in her article in Business 2.0 magazine:
+Freemiums are services that lure users in with a basic product, then charge for more features.
+Basically, the idea is that you offer either a time-limited or feature-limited version of your service to encourage potential users to try your service. Once they sign up they start using the service and realize they cant live without it and hopefully they are willing to part with the $20 a month to use all the features of your web app full time.
+
+The freemium model isnt new, its just an update of the old software pricing strategy for shareware and freeware with encouraged donations. It is the same business model of try us out, pay us if you like us updated for a software delivered online, web-app world.
+
+Why does freemium work? Because it leverages the best thing about the internet and software: the incremental cost of a new user is next to zero. When the cost of delivering your services to a potential user for a month is next to nothing why not let everyone try it out, and hopefully a few will stick around. Taking it to the next level, since the incremental cost is so low, why not allow users free access to your web application indefinitely, just limit it to something that will leave them wanting more. Offer your service for free and provide premium services that will get them to put their credit card down.
+
+As we are moving forward in making pricing model decisions for SiteMighty, weve been considering just how to structure our freemium model. Where do you create the limitations for the free part of the model.
+So, who is using the freemium model, and how do they do with it?
+So, as we work towards the launch of SiteMighty we are working very hard to position our freemium model correctly. If youre interested we have decided to offer a full-fledged version of the service for free, but we will limit the number of affiliate offers to 10. This will let people try out the site and all our tools and even make money with it. But if they want an affiliate marketing site with a full complement of offers, theyll have to pay for it. Id love to hear peoples feedback on this strategy.
+
+PS: Thanks to Scott Carpenter for the inspiration for this post.
+

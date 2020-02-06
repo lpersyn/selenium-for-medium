@@ -1,0 +1,18 @@
+Theres never been a better time to be an entrepreneur because its never been cheaper to be one. Heres one example.
+Excite.com took $3,000,000 to get from idea to launch. JotSpot took $100,000.
+Why on earth is there a 30X difference? Theres probably a lot of reasons, but here are my top four. Im interested in hearing about what other people think are factors as well.
+In the 10 years between Excite and JotSpot, hardware has literally become 100X cheaper. Its two factors  Moores law and the rise of Linux as an operating system designed to run on generic hardware. Back in the Excite days, we had to buy proprietary Sun hardware and Sun hard drive arrays. Believe me, none of it was cheap.
+Today, we buy generic Intel boxes provided by one of a million different suppliers.
+Back in 1993 we had to buy and continue to pay for maintenance on everything we needed just to build our service  operating systems, compilers, web servers, application servers, databases. You name it. If it was infrastructure, we paid for it. And, not only was it costly, the need to negotiate licenses took time and energy. I remember having a deadline at Excite that required me to buy a Sun compiler through their Japanese office because it was the only office open at the time (probably midnight) and we needed that compiler NOW.
+Compare that to today. Free, open source infrastructure is the norm. Get it anytime and anywhere. At JotSpot, and startups everywhere you see Linux, Tomcat, Apache, MySQL, etc. No license cost, no maintenance.
+Startups today have unprecedented access to global labor markets. Back in 1993, IBM had access to technical people in India, but little Excite.com did not. Today, with rent-a-coder, elance.com and just plain email, we have access to a world-wide talent pool of experts on a temporary or permanent basis.
+Ten years ago to reach the market, we had to do expensive distribution deals. We advertised on television and radio and print. We spent a crap-load of money. Theres an old adage in television advertising I know half my money is wasted. Trouble is, I dont know what half. That was us.
+Its an obvious statement to say that search engine marketing changes everything. But the real revolution is the ability to affordably reach small markets. You can know what works and what doesnt. And, search not only allows niche marketing, its global popularity allows mass marketing as well (if you can buy enough keywords).
+Its nice that its cheaper, but what does it mean to entrepreneuring?
+More people can and will be entrepreneurs than ever before
+A lot more people can raise $100,000 than raise $3,000,000.
+The sources of funding capable of writing $100,000 checks are a lot more plentiful than those capable of writing $3,000,000 checks. Its a great time to be an angel investor because there are real possibilities of substantial company progress on so little money.
+With costs so low, I think youll see many more companies raise angel money and take it all the way to profitability.
+And, for those that do raise venture capital, I think it means better valuations because you can get far more mature on your $100,000 before you go for the bigger round.
+All in all, its a great time to be an entrepreneur.
+

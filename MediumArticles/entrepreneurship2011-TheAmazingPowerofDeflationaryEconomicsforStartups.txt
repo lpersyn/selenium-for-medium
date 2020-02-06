@@ -1,0 +1,72 @@
+Im often asked by people what investment areas interest me.
+Its true that I have a functional focus on three areas: Performance-based marketing, digital television and mobile computing. I try to invest in things that I know and that I believe I might have better knowledge and relationships than the masses of VCs.
+I have other areas of interest & competence such as cloud computing and document management given my background.
+Its also true that Im mostly founder driven, where the founding team & my personal relationship with them leads to a strong mutual working relationship. If that bond isnt there or if it feels like Im in a bidding process for the highest price, I might as well be Wells Fargo.
+But one theme in pervasive in all my thinking about investing in Internet-based companies: Deflationary economics.
+And its something I think you ought to consider when building your Internet businesses.
+Heres what I mean
+When you think about the great achievement of the Internet in aiding content, commerce & communication they include:
+So which types of businesses become super successful given this environment?
+Ones that offer amazing value (low relative margins) at high volumes that makes it nearly impossible for high-cost incumbents to compete. Thats what I mean by deflationary economics.
+It is a classic case of the Innovators Dilemma in practice. If youre a startup and you havent read my summary of Clay Christensens seminal work please do.
+Its the single most influential piece of work in determining my investment philosophy and how I think about markets. In a recent panel discussion I participated in with Fred Wilson he said the same.
+Why Deflationary Business Win
+In the simplest form, new startups have a product that is INFERIOR to that offered by the competition but at a dramatically lower price with the seller opting for a very thin margin on their product.
+Initially their only customers are people who can get by on the reduced functionality or perhaps dont have the money to spend on the expensive product.
+Often it turns out that the market is greatly expanded by having a lower price point new entrant. And over time the new entrant attracts enough business that, as depicted in the graph above, the quality of the product slowly increases over time.
+The new entrant keeps margins low but suddenly has a lot of profits due to large volumes of business.
+How does the incumbent respond? Not by dropping price & quality  they dont have an advantage there. Instead they spend more money trying to innovate on product quality and call attention to the weaknesses of the new entrants product quality.
+Often major customers defect en masse to the new entrant as they realize that the huge price premium is not justified by the product differentials.
+That is what Clay Christenson defined in his book as The Innovators Dilemma.
+And this approach to looking at startup industries is what I call deflationary economics.
+How it May Apply to Your Business?
+When Im asked about all of the mistakes I made at my first startup (I made them all) I often tell people that the single biggest mistake that I made was charging too much for my products.
+We knew how to sell  we had clients paying $1 million / year. We knew there was value in what we provided. In order to grow we hired successful and expensive sales people who in turn were able to (and incentivized to) sell projects at higher margins and close big deals.
+This was a mistake.
+We grew really fast for a few years. But eventually low-cost new entrants came into the market offering most of our features at 10% the costs. We still won large customers but over time it became harder to compete.
+Had I taken the lower-margin approach I really think Id be sitting atop a $1 billion+ company today.
+So when you start your company think carefully about whom your target customer is. If youre trying to be a value-based product or trying to scale to a large market size you may want to think about deflationary economics.
+I would also think about how you use scale to your advantage to keep margins low.
+Most of the Internets Greatest Successes Have Been Deflationary
+Craigslist  Think about what Craigslist achieved. Its remarkable. They took an industry that had charged people large sums of money (the classified industry) and made it almost entirely free. How do existing incumbents compete with that?
+Craigslist is kind of an anomaly in that its founder seems to run it in a non-traditional style and with some objectives other than the pure profit motive. But by providing free listings he build critical mass (volume) so charging small amounts for certain types of listing (i.e. recruiting) he could build a very profitable business.
+Craigslist is everybodys favorite business to say, Im going to disrupt them but somehow nobody has really been able to. Given their terrible UI Im sure it will eventually happen. But beating free is hard, as is creating a two-sided market (chicken & egg problem).
+Amazon  Amazon is the ultimate deflationary business. Everybody knows the story well. They launched as an online book seller.
+They had huge scale advantages because they could offer a much wider book selection since they didnt need to be limited to the physical floor space of a physical retailer.
+They had huge cost advantages because they didnt need to pay for retail space or all of the retail workers. They even
+had a government break because they didnt need to charge taxes and thus consumers got an even better price.
+But Amazon didnt try to build a hugely profitable business. Does that sound dumb? I always see nave journalists comment negatively on businesses that are not profitable. Sometimes its good to not focus on profitability & sometimes its bad.
+There is a tension between profitability & growth. The more you want the latter the more investments you make in people and infrastructure now to pay for faster growth that expense of short-term profitability.
+It doesnt work for every business. But if you are growing uber fast, building for scale and have access to capital to fund your growth then its always the smart play.
+So instead of maximizing price they kept cutting costs. Innovators Dilemma. How do physical retailers compete with that? Especially when Amazon will offer free shipping for its best customers.
+And Amazon wasnt content with just being books, they wanted to be THE Internet retailer. Walmart in the cloud. This generations Sears Catalog. So they kept cutting costs of everything they offered.
+And then they decided they wanted to be the Internet retailer of computing services so they created Amazon Web Services
+(AWS). And they made it so cheap that everybody gravitated towards them. They had a scale advantage and were driving deflationary economics (in other words, massively driving down the costs of goods & services).
+I was at Salesforce.com when Amazon was super aggressive on that storage pricing. I met with our network experts to figure out whether we could launch a competing service. The assessment of our best experts was that we couldnt. Their view was that Amazon was taking a loss on providing Internet storage.
+I have not inside data on that but Ill be they were right. Ill bet that Amazons view was to start with a loss leader because they knew that storage costs could come down and that they could add more service on top of their storage product and ultimately provide a profitable bundle of IT services to their customers.
+In other words, storage might have been a loss leader. In any event, they had such scale advantages in providing this Internet infrastructure that to this day nobody in the industry has come close to matching them.
+In my estimation this is one of the biggest strategic mistakes Google has made in not competing more aggressively with AWS. The Cloud is the future at Amazon has an enormous lead. As far as I know, the revenue in AWS is not publicly broken out but the last rumor I heard was that it had crossed $1 billion per year.
+Google  They have led the deflationary pressure on advertising, bringing whole industries into chaos. This has particularly hurt the print media businesses that can no longer charge enough to pay for editorial, printing & distribution.
+They are bringing deflationary economics to word processing, spreadsheets and office automation. They are bringing deflationary economics to local advertising.
+I guess I would describe Google as the ultimate scale & deflationary business.
+Skype  As with many deflationary businesses, Skype started by giving away its product for free. Free phone calls anywhere in the world is as deflationary as it gets.
+Telecommunication companies are still charging people for phone calls when the costs to them of providing the calls is infinitesimally small. Data transfer is what costs telecom companies money these days.
+Ultimately when Skype had 10s of millions of users it rolled out products that made money. They started with Skype Out which was placing a call from a Skype line to somebody on a normal telephone. They charge for this call, but they charge at rates that are an order of magnitude cheaper than a telco.
+Expect this industry to be whiplashed by deflationary economics in the next 510 years. Its no wonder theyre pushing so hard to be become our Internet supplier and our TV suppliers. Unfortunately for them neither of these businesses will escape the deflationary maelstrom either.
+TextPlus  Speaking of telecom disruption, a new breed of mobile telco is emerging that are riding the deflationary wave. Its the reason I invested in TextPlus. At 25 million downloads & 10 million monthly active users were achieving a scale that makes it a very attractive opportunity.
+We started offering free text messaging at a time when most telcos are still charging $240 / year for unlimited-texting plans. In many parts of America thats a lot of money for families to be absorbing for something that costs the telcos almost zero. Thats one reason a free texting app has been so popular.
+But beyond that TextPlus now offers free phone calls to other TextPlus users and out-of-app calls are a fraction of the normal costs by mobile providers.
+Expect a deflationary revolution in the global telecom market  at a minimum for voice services. And with 6 billion global handsets you can imagine what an immense market this will be.
+LinkedIn  Lots of people talk about LinkedIn as a social network. What interests me is the deflationary impact that LinkedIn and other recruiting websites have had on the recruiting market.
+Think of the principles I described about Internet economics of Craigslist: huge scale, many parts of the service are free and monetize the narrow features where businesses are willing to pay  and at hugely deflationary prices to their normal recruiting fees.
+Zynga  Deflationary. In the offline world people were buying consoles and then paying for game titles separately  many in the $2949 price range per game. Along comes an immensely scaled business that offers games for free.
+I know, it isnt offering the same quality of games so Im not arguing that the entire game console business goes away over night. But it is hard to argue longer-term against the deflationary pressures that Zynga brings.
+Maker Studios  Network television costs $50,000100,000 per minute to produce. Reality shows can be cheaper, with the lowest-end costing $6,0008,000 per minute.
+Maker Studios is an Internet producer of content relying on deflationary economics. It produces shows for $5001,000 per minute. Its no surprise that it has now become one of the most viewed networks of video programming in the world, achieving 500 million video views per month having only raised $3 million in venture capital.
+Maker Studios produces shows like =3 by Ray William Johnson (NSFW), one of the most subscribed to shows on YouTube. Many episodes are garnering 812 million views while its network competitor (and equally brilliant show) Tosh.O is getting 3 million views.
+Other shows like Epic Rap Battles of History (my personal favorite  if you get addicted weve produced about 15 or so now. The best ones have been watched more than 35 million times) and Animonsters are delivering huge audiences and significant revenues.
+I know that the networks, studios & cable companies dont yet see this business as a threat. My experience in looking at deflationary businesses says that they should pay attention to it. Deflationary economics tend to eat at the core of traditional offline businesses.
+Of course I could go on and on including businesses like AirBnB, DropBox, Box.net, Yammer and so on. All deflationary. But by now you more than got the point.
+So What Do I Look for In My Investments?
+Exactly what Ive outlined.
+

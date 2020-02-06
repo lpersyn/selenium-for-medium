@@ -1,0 +1,8 @@
+One of the things we have been thinking about quite a bit recently is what I call the TechCrunch Problem. In launching our new web application, SiteMighty, we are anxiously hoping to get traction within the Web 2.0 community, and our fingers are crossed that we get TechCrunched, meaning our servers get hammered in the hours and days after we get a glowing review for SiteMighty by Mike Arrington. But, traction within our own community is not enough to build a business on. To succeed, youre going to need more than TechCrunchs 137,000 readers.
+
+Im sure there is a typical lifecycle of getting TechCrunched. Heres how it might go:
+So, there you are, just % of the original TechCrunch users are now paying customers. Its a great start, but youll need more.
+
+Who else is out there beyond our fellow TechCrunch readers?
+The focus of our next post in this series will be on achieving the elusive goal of Crossover for your web application and tracking the companies that have and those that have not. Help us figure this out so we all can benefit together.
+

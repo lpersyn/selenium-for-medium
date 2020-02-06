@@ -1,0 +1,26 @@
+by Andy Raskin
+Three weeks ago, the CMO of a San Francisco startup backed by A-list investors emailed me about her new sales deck.
+It lacks oomph, she said. The information is there. The slides look great. But were not telling a compelling story. Can you help?
+One of my favorite things is helping leadership teams craft a better strategic story for fundraising, sales, recruiting, whatever. I was busy with other projects and couldnt start immediately, so I sent a link to the man on the CMOs team who built the deck  a guy named Zack.
+Five days later, the CMO texted me:
+Andy, what did you send Zack? Because his deck got a lot better. Kind of like night and day.
+What I sent Zack was a link to Elon Musks presentation for the Tesla Powerwall (the full video is at the bottom of this post). I also included a version of the points Ill share below.
+Musks delivery isnt stellar. Hes self-conscious and fidgety. But at the end, his audience cheers. For a battery.
+Thats because Musk does five things right that you should emulate in every pitch you ever make to anybody. And you should do them in this order:
+Never start a pitch by talking about yourself, your team, your product, or your total addressable market. Instead, start by naming the thing thats getting in the way of your customers happiness. Do that by painting an emotionally resonant picture of how your customer is struggling, who/what is to blame, and why. When Musk shows this image of burning fossil fuels, you can practically hear Darth Vaders ominous breath.
+Audiences  particularly investors  are skeptical. Theyre thinking, People have lived this way for a long time  are they really going to change now? Musk handles this objection by showing that were at a critical point in the growth of atmospheric carbon dioxide concentration: If we dont act now, things quickly get much, much worse. When Musk says, We should collectively do something about this, his audience howls in support.
+Before saying anything about batteries, Musk describes his version of happily-ever-after: a civilization powered by this handy fusion reactor in the sky, called the Sun. Showing the enemys defeat before explaining how youll make it happen can feel wrong for novice presenters  like blurting out the punchline before youve told a joke. But when an audience knows where youre headed, theyre much more likely to buckle in for the ride.
+Now that youve shared your vision of the future, (a) lay out the obstacles to achieving it and (b) show how your company/product/service will overcome each one. (There had better be some big, nasty obstacles  otherwise who needs what youre selling?)
+Musk addresses three obstacles to a solar-powered world:
+(i) The amount of energy produced by solar panels varies throughout the day and night (thus the need for batteries):
+(ii) Most people think the land area required for batteries to store enough energy to rid U.S. of fossil fuels would be really huge (but according to Musk, its that tiny red dot in Texas):
+(iii) Musk says that currently available batteries suck in seven specific ways:
+By this point, Musks audience is practically salivating for the Powerwall product video, which will explain how Powerwall does not suck in each of those seven ways. But make no mistake: the fancy graphics and dramatic music only work because Musk has set up the Powerwall not as a battery, but as the salvation of mankind.
+Again: audiences are skeptical. So you must give them evidence that the future youve laid out is, indeed, attainable. Musk does that by letting his audience in on a secret: Powerwall batteries have been supplying the energy for the auditorium in which hes speaking. As proof, he zooms in on the meter above, which registers zero power from the grid.
+For early- stage companies and products, demos like this can serve as evidence, though results from early (or beta) customers are more compelling. Least persuasive but better than nothing  are testimonials from potential customers explaining why they would buy.
+Heres the full video of Musks launch announcement of the Tesla Powerwall. A few weeks after sending this to Zack, I worked with him and the CMO to make their pitch really hum, which was easier once we were on the same page about the elements of a compelling story. Now Im thinking about asking all of my clients to watch this  before I engage  as a way to quickly communicate my happily-ever-after vision for them.
+* * *
+About Andy Raskin:
+I help CEOs and leadership teams align around a strategic story  to power sales, marketing, fundraising, product, and recruiting. My clients include teams backed by Andreessen Horowitz, First Round, GV (Google Ventures), and other top venture firms. Ive also led strategic narrative training at Salesforce, Uber, Yelp, VMware and General Assembly. To learn more or get in touch, visit http://andyraskin.com.
+Or follow me on Twitter: @araskin
+

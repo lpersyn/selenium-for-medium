@@ -1,0 +1,10 @@
+Je naime pas trop parler des produits ouvertement web 2.0 tant ceux ci jouent ouvertement sur leffet marketing que peut produire ce terme par ailleurs vide de sens rel. Je ferai cependant une exception pour Bullshitr tant je trouve ce produit  la fois drle et pertinent, dans la ligne du vandamotron des annes qui permettait de gnrer alatoirement des phrases typiques du plus clbre acteur belge.
+Bullshitr permet dviter de rflchir au concept de sa prochaine startup en laissant le hasard et une bonne dose de javascript  so web 2.0  dcider pour soi. Et comme ils sont sympas, ils donnent des liens vers des produits complmentaires pour btir sa boite web 2.0 en moins de 2.0 minutes :
+Ce qui me donne : Tripeliya, startup proposant un service de micropaiement via bittorrent intgr  des communauts de mdia citoyens avec pour slogan nous dpasserons les frontires. Tout un programme.
+Et comme de bien entendu, le service est encore en version bta.
+Via Techcrunch
+[edit]
+Toujours via Techcrunch, cette rponse des franais de Nodia avec Incubateur 2.0, la seule solution du net pour devenir millionnaire dans les nouvelles technologies en seulement six clics.
+Me voil donc parti pour activer des plateformes de networking smantiques dans lesquelles la coopration a remplac la pyramide dans une nouvelle interface entirement en Ajax grce  une nouvelle folksonomie base sur les tags. Infelishare reposera sur un business model de publicits contextuelles et sera rachet par Google dans les trois prochains mois.
+Original article published on Bullshitr, une solution pour lentrepreneur feignant
+

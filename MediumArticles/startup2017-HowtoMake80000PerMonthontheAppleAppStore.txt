@@ -1,0 +1,42 @@
+At WWDC, Apple reported that theyve paid out $70 billion to developers, with 30% of that ($21 billion!) in the last year. Thats a huge spike, and surprising to me because it didnt seem like my friends and I were spending more on apps last year. But thats anecdotal, so I wondered: Where are these revenues coming from? I opened App Store to browse the top grossing apps.
+I scrolled down the list in the Productivity category and saw apps from well-known companies like Dropbox, Evernote, and Microsoft. That was to be expected. But whats this? The #10 Top Grossing Productivity app (as of June 7th, 2017) was an app called Mobile protection :Clean & Security VPN.
+Given the terrible title of this app (inconsistent capitalization, misplaced colon, and grammatically nonsensical Clean & Security VPN?), I was sure this was a bug in the rankings algorithm. So I check Sensor Tower for an estimate of the apps revenue, which showed $80,000 per month?? That couldnt possibly be right. Now I was really curious.
+I tap into the app details to see that the developer is Ngan Vo Thi Thuy. Wait so, this is a VPN service offered by an independent developer who didnt even bother to incorporate a company? Thats a huge red flag. For those of you who dont know why this is bad, a VPN basically routes all your internet traffic through a third party server. So in this case, a random person who couldnt piece together a grammatically correct title, who also didnt bother to incorporate a company, wants access to all your internet traffic.
+Another red flag was this comically terrible app description:
+According to this, Mobile protection :Clean & Security VPN is Full of features  well, its certainly full of something. Apparently, Mobile protection includes protecting you from dupplicate contacts. And these scans are what the screenshots claim as Quick & Full Scan Internet Security. Five internets to anyone who can figure out the relationship between Internet Security and duplicate contacts.
+All these red flags  and I havent even downloaded the app yet. I check the Reviews tab to find some vague, fake-looking 5-star reviews:
+Seeing the dates on these reviews brought up another question. How long has this app been up? Well, according to Sensor Tower, Mobile protection :Clean & Security VPN has been a top 20 grossing Productivity app since at least April 20th (almost 2 months now).
+Out of curiosity about this supposedly top grossing app, I download it. Heres what happens when I open it for the first time:
+Yes, This app need to cccess to your Contact to scan your Contact first. The only option here is to tap Agree, and then iOS asks me if I want to give this app cccess to my contacts. Uhm, no thank you?
+After skipping that, the app tells me my device is at risk. Of course it is. Its also ready to Device Analyze, Quick and Full Scan, and secure my internet (I cant wait!).
+Tapping Device Analyze shows my iPhones free memory and storage  a useless and irrelevant feature.
+Tapping both Quick Scan and Full Scan shows:
+Your contact is cleaned. No dupplicated found.
+Oh good  no duplicates, except for the extra p in dupplicated, I guess? 
+Okay, so let me finally secure my internet by tapping Secure Internet. Hmm, whats this?
+Up comes this incredibly generous offer to play a bubble shooter game without installing! Not sure what I did to deserve this amazing free gift, but it will have to wait. I tap the X to return to securing my internet.
+Heres the next screen:
+And obviously, I jump at the opportunity to Instantly use full of smart anti-virus by tapping FREE TRIAL. Its free, after all.
+Touch ID? Okay! Wait lets read the fine print:
+Full Virus, Malware scanner: What? Im pretty sure its impossible for any app to scan my iPhone for viruses or malware, since third party apps are sandboxed to their own data, but lets keep reading
+You will pay $99.99 for a 7-day subscription
+Uhh come again?
+Buried on the third line in a paragraph of text in small font, iOS casually tells me that laying my finger on the home button means I agree to start a $100 subscription. And not only that, but its $100 PER WEEK? I was one Touch ID away from a $400 A MONTH subscription to reroute all my internet traffic to a scammer?
+I guess I was lucky I actually read the entire fine print. But what about other people?
+It suddenly made a lot of sense how this app generates $80,000 a month. At $400/month per subscriber, it only needs to scam 200 people to make $80,000/month, or $960,000 a year. Of that amount, Apple takes 30%, or $288,000  from just this one app.
+At this point, you might still be in disbelief. Maybe youre thinking: Sure, just 200 people, but still, it seems highly unlikely that even one person would download this scammy looking app, much less pay for it.
+Maybe you wouldnt download it. I certainly wouldnt. But Ive also never clicked on a Google Ad, yet Google somehow rode Adwords to $700 billion dollars today. Mobile protection :Clean & Security VPN is currently ranked #144 in most downloaded free productivity apps in the App Store, with an estimated 50,000 downloads in April.
+To get 200 subscribers from 50,000 downloads, they just need to convert 0.4% to purchases  or maybe even fewer, because these subscriptions are automatically renewing, so the subscribers stack month over month. Can you really not imagine one of your tech-illiterate relatives accidentally (or even intentionally) subscribing to this free trial to protect their iPad from viruses?
+But how did this app get 50,000 downloads in the first place?
+I remembered reading that a large percentage of apps were discovered through app store search. So maybe, this app somehow had really good App Search Optimization. I searched the app store for virus scanner:
+The first result is an ad for Protection for iPhone  Mobile Security VPN. Well, that sounds familiar. This isnt the same app, but this ones In-App Purchase is Free Trial to Premium Protection for $99.99, and its ranked #33 for Top Grossing in the Business category.
+Turns out, scammers are abusing Apples relatively new and immature App Store Search Ads product. Theyre taking advantage of the fact that theres no filtering or approval process for ads, and that ads look almost indistinguishable from real results, and some ads take up the entire search results first page.
+Later, I dug deeper to find that unfortunately, these arent isolated incidents  theyre fairly common in the app stores top grossing lists. And this isnt just happening with security related keywords. It seems like scammers are bidding on many other keywords. Heres a search for wifi:
+The top result is an ad for WEP Password Generator, a simple random string generator that charges $50/month. Its already making $10,000 per month, despite being released in April. Its likely a clone of this app, which indicates that yes, this scheme has become so large that scammers are copying each other.
+Well first, if youre reading this as a developer who also happens to have a less-than-average sense of morality, congratulations! Youve just learned a (relatively) easy way to make tens of thousands of dollars on Apples App Store  at least until they change something. Otherwise, heres a few suggestions:
+Its somewhat hard to believe that Apple isnt aware of this problem, since these apps arent small frys  theyre all over the top lists on the App Store. It could be that they simply dont consider it a big enough problem to deal with it, or that it just happens to be a very profitable problem for their Search Ads and App Store platforms. Either way, here are some suggestions:
+App developers take pride in the fact that if their creation adds value, or improves peoples lives in some way, then people will be happy to pay for it, and everybody benefits. Not only that, but making good apps requires design, engineering, and sales skills, as well as a ton of dedication and hard work.
+So, aside from the obvious moral wrongs of exploiting the vulnerable for profit, its extremely disheartening to know that some developers are becoming financially successful the easy and unethical way  by making bogus apps that take a few hours to code, and whose functionality is purely to steal from the less well-informed.
+If anyone at Apple is reading this, please do the right thing.
+UPDATE  June 2019: We built a comprehensive and free solution to the problem of dishonest, insecure, and untrustworthy apps. Read about it here.
+

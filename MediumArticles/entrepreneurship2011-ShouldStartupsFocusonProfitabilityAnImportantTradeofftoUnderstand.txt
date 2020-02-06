@@ -1,0 +1,91 @@
+There are certain topics that even some of the smartest people I talk with who arent startup oriented cant fully grok. One of them is profitability.
+I find it amusing when a people talk about a prominent startup and confidently exclaim, Theyre not even profitable!
+There is a healthy tension between profits & growth. To grow faster businesses need resources in todays financial period to fund growth that may not come for 6 months to a year. The most obvious way to explain this is with sales people.
+If you hire 6 sales reps in January at $120,000 / year salary then youve taken on an extra $60,000 per month in costs yet these sales people might not close new business for 46 months. So your Q1 results will be $180,000 less profitable than if you hadnt hired them.
+I know this seems obvious but I promise you that even smart people forget this when talking about profitability.
+Hiring more people isnt always the right answer. You have to understand whether theyre likely to yield revenue growth in the near term OR whether you have access to cheap enough capital to fund your losses until your investments pay off.
+Exec Summary:
+Most companies (98+%) in the world (even tech startups) should be very profit focused.
+Being profitable allows you degrees of freedom you dont have when you rely upon other peoples money.
+The characteristics of somebody who should NOT focus on profitability include those who:
+As I like to say,
+If youre really on to an enormous idea then other people in the market are going to spot that and want to compete with you.
+If you have a market lead then raising capital and making investments now will help you as others enter the market.
+If you dont, somebody else WILL!
+The Details
+I have had this discussion with many a first-time entrepreneur. They have have raised $23 million, built a product that has some amount of market traction and got to annualized revenues of around $1 million.
+At this level, as a founder you feel SO CLOSE to profitability that many say, Im going to keep my costs really low this year to try and hit profitability. I dont want to be beholden to investors.
+My response is often, Thats fine. Whats your objective? Are you looking to potentially sell the company in the next year or two? Do you plan to run this as a smaller business but maintain healthy profits? Do you imagine eventually raising VC and trying to build a faster growing company?
+Because of the circles I run in I tend to meet many people who eventually do want to build large companies and therefore do want to eventually raise VC and go big. But they want to do it with leverage.
+I often point out that investors at this stage care way more about growth than profits so be careful not to shoot yourself in the foot. I certainly understand the desire to be in control, which is what you are when you earn a profit. Just be careful that it doesnt come at the expense of investments in growth.
+The likely response of a VC to your company that raised $3 million and now is profitably doing $1.5 million in revenue three years later is, So effing what? Harsh, but reality.
+If you had huge customer growth but just didnt focus on revenue thats a different story. If you spent the 3 years perfecting some hugely differentiated technology IP that may also be different. But if you simply went more slowly to show you could earn a profit you may need to look for alternative funding sources to fuel your future growth.
+Understanding Profits
+No discussion about profitability can sensibly happen without covering the basics first so please forgive the 101 nature of these charts.
+Simplifying:
+Revenue -
+Cost of Goods Sold (COGS) =
+Gross Profit (also called Gross Margin or sometimes Net Revenue)
+- Operating Costs
+= Profit
+When I look at an income statement (also called a profit & loss statement) I start by focusing on the revenue line. One thing that should matter to all people trying to understand the performance of a company is whether they have revenue growth.
+I always remind this to journalists who ask me about public stocks. If you had two companies each with $100 million in earnings (profits) they might have vastly different prospects for the future. One company might be growing its revenue at 50% per year and the other might be growing at 5% per year.
+And assuming they both had the same net profit margins (profit / revenue) then the former company would be much better off at the end of the year.
+So while the simplest way that people often evaluate stocks is by P/E ratios (price-to-earnings), one also needs to look at other metrics such as the PEG (price-to-earnings-growth). [of course there are MUCH more sophisticated financial tools than either of these, but PEG is a short-hand many people use]
+Investors value growth.
+The value of a company is the expected value of all future cashflows discounted back to todays dollar (because as you know a dollar next year is worth less than a dollar today) and a company that is growing more quickly is more likely to yield better overall profits in the future.
+So for a start when you want to evaluate companies you want to evaluate growth. Looking at earnings alone across two companies wont tell you the picture of the different prospects.
+And when youre looking at even earlier-stage companies (as VCs do) you might be even more focused on customer growth than revenue growth.
+The Nature of your Revenue Matters
+When I do evaluate companies that already have revenue, I actually want to understand the revenue line in more detail. What makes up revenue? Is it one product line or multiple? Do 20% of the customers make 80% of the revenue or do the top 3 customers represent 80% of the revenue.
+This is called revenue concentration and the more concentrated your revenue the higher the risk that your revenue could decline in the future.
+I also try to understand things like how youre pricing your product, how your competitors price and what your pricing expectations will be in the future. Fast early growth in a market is often eroded when competition gets fierce and prices are forced down due to competition.
+Revenue is Not Revenue is Not Revenue
+But its not as simple as just looking at revenue in dollar terms. For example, look at the following graph. Youll notice that although both companies have the same revenue every year, Company 1 has MUCH higher gross margins than Company 2 because the cost of sales (COGS) is much lower.
+COGS represents the amount that each sale costs you. For example, if you sell your product through a third-party reseller who charges 30% of any sale then your COGS will be 30% of revenue (assuming no other costs of sales).
+The example chart is not actually atypical. The first company represents a normal software company that sells its products directly (either via sales staff or directly off of the internet). Many software companies have 8590% gross margins, which is why it has historically been a very attractive industry.
+Company 2 might represent an ad mediation company where the company gets paid by ad networks for running ads on publisher websites and the company in turn must pay the publisher 85% of the revenue it collects. This is not atypical for middle men who often take 1530% of the value of the sale
+This could also be a travel website who gets paid a bounty for selling airline travel.
+Companies like to have high numbers in their revenue column but this can be quite misleading. After all, if you sell $500 million of United Airline tickets that isnt really YOUR revenue. Your revenue is the $75 million you got paid in booking fees.
+It could be an eCommerce website or flash sale where they are booking revenue from customers but then having to pay out a high percentage of the sale to the clothing manufacturer. Many eCommerce companies are in fact, middle men. Gross margins can range from 1540%.
+I know youre shaking your head and thinking, duh but I promise you that even some of the most sophisticated people I know get off track on this issue of gross revenue versus net revenue. I saw this first hand with the growth of the flash sale category.
+People kept saying,
+Company X is already doing $100 million in revenue! Wow! Amazing growth!
+Um, no,
+Company X is doing $100 million in gross revenue but is only at 12% margins which means the majority of the value is in the goods.
+Many of these companies werent even taking physical possession of the goods in the early days. So they are really doing $12 million in revenue.
+That in and of itself is an achievement. But its very different than $100 million in two years.
+Shouldnt All Companies Want to Be Profitable?
+Not necessarily.
+Lets consider the following two software companies, both of which have 66% gross margins.
+Both companies look the exact same after one year. They both raised angel / seed money of $1.5 million to fund operations in their first year of operations. Both companies lost $1 million in their first year.
+Gross margins at 66% is fine (theyre selling through a reseller who takes a 33% margin) but their sales arent yet large enough to cover the costs of their IT development team + management + marketing + office costs, etc. In many Internet startups 80% of the operating costs will be people.
+So which company is better run?
+The answer is that you have no way of knowing. A naive person might lament the fact that Company A is not profitable or is being a typical Internet startup and not worried about costs. After all, they doubled their operating costs when they werent even profitable.
+What did they actually do? They raised $5 million in venture capital to fund growth. They used the money to hire a bigger tech team so they could roll out their second product line. They hired a marketing team to promote their products more broadly.
+They hired a biz dev team to work on deals where their product could be embedded in other peoples products as a way to increase customer demand. They got a bigger office space so their employees would feel comfortable and they could improve employee retention.
+If there was strong market demand for their product then this investment might pay off handsomely.
+Lets look at years 35 of the two companies.
+Even though Company B initially looked prudent, it turns out that the investment that Company A made in people led to a higher annual growth rate. At the end of year 5 Company A has earned $14 million in cumulative profits (gains  investment years) while Company B has made $5 million.
+Company A is now doing $47 million in annual revenue which Company B is doing $12 so years 610 appear rosier for Company A as well.
+I know which company Id rather have invested in. Growth matters.
+But lets consider an even more aggressive scenario. Lets call it the super high growth Internet company. You know, the kind that unknowing commentators would be quick to lambast as being wasteful because theyre not profitable.
+The company would have had to raise at least $35 million in venture capital to have funded operations like this. More likely they raised $50 million or more. Note that they likely raised this in 23 tranches, not all up front or all at once.
+Crazy? Stupid? Should they have slowed down operating costs in order to make a profit.
+Again, it depends. If the growth is as spectacular as it is here and IF they have access to cheap capital then theyd be crazy not to have raised the VC and instead stayed unprofitable.
+This is the trade-off between profits & growth. You can drive profits up by not investing todays dollars in tomorrows growth.
+The next time somebody wants to slam Amazon for not being more profitable I wish theyd understand this. Amazon is continuing to grow at such a rapid pace that of course it should take some of todays profits and reinvest them in growth.
+If there is a company that cant grow fast enough then they should do other things with their profits, like return it to shareholders.
+A Final Note on Profitability vs. Being Cashflow Positive
+More 101, but experience tells me this is worthwhile to many. Many investors care much more about cashflows than income statements.
+Its worth noting just for those that arent familiar with the difference between an Income Statement and a Cashflow statement that being profitable is not the same as being cashflow positive.
+You can be profitable while losing money.
+Huh? I thought profitable meant you were making money?
+Income statements are designed according to accounting standards that are designed to match revenues & costs in the period for which they should be attributed.
+Quick examples:
+1. An ad network (the middleman) might sell $500,000 in ads. It might agree to pay the publisher who runs those ads in 14 days. The advertiser who bought the ads might pay the ad network in 60 days.
+So for this money I might show that Im profitable on my income statement but I might actually have paid out $500,000 that I didnt receive yet (negative cashflow)
+2. I might have sold a $1.2 million contract over two years. I therefore might be booking $50,000 per month in revenue on my income statement. But the customer may be paying me quarterly in arrears (at the end of the quarter). So for the first two months of every quarter Im showing revenue on my income statement that I dont yet have in cashflow.
+3. The same is true obviously on the cost side. I might have bought $450,000 in equipment that I amortize over the three years that I expect this equipment to be useful. So every year I show costs of $150,000 but I really spent the money up front.
+Photo credit: -Snugg- via Visual Hunt / CC BY-NC
+

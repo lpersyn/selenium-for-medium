@@ -1,0 +1,23 @@
+Andrew Chen has a good post on how a startup should think about implementing analytics that I think applies to companies of all sizes and is worth reading. He notes:
+In general, a philosophy on the role of analytics within a startup is:
+If youre not going to do something about it, it may not be worth measuring.
+(Similarly, if you want to act to improve something, youll want to measure it)
+Dont build metrics that arent going to be part of your day-to-day operations or dont have potential to be incorporated as such. Building reports that no one looks at is just activity without accomplishment, and is a waste of time.
+He goes on:
+Metrics as a product tax
+In fact, one way to view analytics is that they are a double-digit tax on your product development process because of a couple things:
+* It takes engineers lots of time and development effort
+* It produces numbers that people argue about
+* It requires machines, serious infrastructure, its own software, etc
+* Fundamentally, it slows down your feature development
+As a rough estimate, Ive found that it takes between 2540% of your resources to do analytics REALLY well. So for every 3 engineers working on product features, youd want to put 1 just on analytics. This may seem like a ton (and it is), but it throws off indispensible knowledge that you cant get elsewhere, like:
+* Validating your assumptions
+* Pinpointing bottlenecks and key problems
+* Creating the ability to predict/model your business to make future decisions
+* It tells you which features actually are good and what features dont matter
+I recommend reading the whole thing.
+One additional piece of advice that Ive found helpful:
+1. Ask the product owners to use excel to mock up EXACTLY the reports that they would like to use, whether charts, tables, graphs, including time periods and mock data. This is way better than PRDs when it comes to reporting.
+2. Go line by line through these reports with the product owners and ask them what decision will you make with this data. If the answer is none or if it is for investigation or theortical purposes rather than frequent operating decisions, cut the report out.
+Happy analytics!
+

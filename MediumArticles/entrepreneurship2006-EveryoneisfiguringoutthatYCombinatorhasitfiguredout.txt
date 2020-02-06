@@ -1,0 +1,7 @@
+We wrote about our admiration for Y Combinator last week, and discussions on their incubation / seed / micro-vc / business model have been continuing inside our office and out. The New York Times is taking notice too.
+Y Combinator is aiming at even smaller firms, and its approach is decidedly unorthodox. It chooses companies for financing in two batches of 8 to 12; one batch is selected in the winter from companies based in Silicon Valley, the other in the summer from those in Cambridge, Mass.
+Mike Arrington decided to dig a little deeper at TechCrunch, where he reveals who many the Y Combinator companies are. There are some powerful concepts in the batch, my personal favorite is Thinkature, which is a cool Ajax powered digital whiteboard for collaboration.
+
+So, more to the point, what has Y Combinator figured out that we are all trying to emulate?
+Were excited to continue to build our companies, and as weve said before, right now it is looking like Y Combinator is the model to beat for the current Web 2.0 generation of companies.
+

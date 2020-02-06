@@ -1,0 +1,20 @@
+When you work inside a startup with lots of clever and motivated staff youre never short of good ideas that you can implement.
+Its tempting to take on new projects, new features, new geographies, new speaking opportunities, whatever. Each one incrementally sounds like a good idea, yet collectively they end up punishing undisciplined teams. I like to counsel that the best teams are often defined by what they choose not to do.
+Let me explain.
+As a VC I regularly meet with companies and listen to their plans. Its a very common occurrence that a young startup with sub 20 staff and sub $2m in financing is racing around doing too many things. This level of complexity always worries me. A significant number of the companies I meet with get some form of feedback from me that:
+Im a bit worried that youre doing too many THINGS. You run the risk of being a mile wide and an inch deep. Its hard enough to do X really well and succeed. Im not sure how you do all these other things and yet I think they may end up being a distraction to X.
+I already know your response. Trust me. I hear it every week
+Yeah, but Im just going to execute this [channel sales deal, international license of my product, new industry, new operating system, biz dev deal] and then it will pretty much run itself.
+It never does. That channel deal that you thought would take no times ends up burning scarce calories. The 3rd-party tries to sell your software  they just need your help with tech assistance to close the deal. They just need you to update your marketing materials. They got your last version working but since your latest release they couldnt get it to work. That test you did on launching a RIM version of your product  it was only beta  now has 20 users who need a patch because its not working properly.
+Every extra set of features that you added that served one narrow use case end up being features you need to support in future releases adding complexity to future development, usability testing, regression testing, etc.
+Every team I fund comes across as laser focused on their core mission.
+My advice?
+I always tell teams I meet with, The scarcest resource in your company is management bandwidth. Spend it wisely.
+Every company is built by a team and every team member matters. But as you know, a few key people in any business have disproportionate impact on the companys ultimate success. And nobody is more important in this regard than senior management. These people need need to be hyper focused on those things that matter the most to the companys success. Its why I dont invest in Conference Hos.
+Examples from discussions Ive had this month that might resonate with your internal debates about how to prioritize
+And so on. Trust me  each additional complexity you add before youre ready decreases your probability of being truly excellent at the things you want to do extraordinarily well.
+Instagram didnt rush to Android. They also didnt do video. They were truly excellent at what they did do.
+What do you want to excel at? How will todays toe in the water initiatives distract you or take your managements time or attention off of your core business? How likely is your, wont take too much time initiative to come back and bite you in the butt?
+Beware. The best teams are hyper focused.
+** A note to readers. Sorry if you received an email with a draft version of this post. I had some problems with my hosting company. They were testing out what the problem was and accidentally hit publish on a draft post.
+

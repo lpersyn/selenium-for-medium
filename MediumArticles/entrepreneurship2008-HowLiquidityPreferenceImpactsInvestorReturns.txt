@@ -1,0 +1,17 @@
+In my post, Preferred Stock: Liquidity Preference, I described the payout structure associated with this asset. Its important to think about how this structure impacts returns for an investor. Since its impact on returns varies with the exit value, the best way to demonstrate this is through a few scenarios.
+Assumptions
+To isolate the impact of the liquidity preference were going to assume:
+Initial Investment Scenario
+Lets assume that the pre-money for this investment was $5M and the new equity was $2.5M, yielding a post-money value of $7.5M. In this scenario, lets assume that the liquidity preference is 1-times new equity.
+This scenario results in the common (e.g., founders, angels, etc) owning 66% ($5M / $7.5M) of the company and the investors owning 33% ($2.5M / $7.5M).
+Exit Scenario 1: Downside Case
+Heres what happens if the company sells for just $10M.
+The investors would take their liquidity preference of $2.5M (their initial investment) off of the top, leaving $7.5M to the common pool. The preferred stockholders (the investors) and the common stockholders (founders, angels, etc.) would then divvy up the remaining capital according to their ownership percentage. The investors would get 33% of $7.5M or $2.5M and the common stockholders would get 66% of the $7.5M or $5M.
+In sum, the investors would receive $2.5M from their liquidity preference and $2.5M from their participation. This is a $5M payout which doubles their initial investment. Note that the liquidity preference represented 50% of returned capital.
+Exit Scenario 2: Upside Case
+Now lets assume that the company exits for $100M.
+The investors would take their liquidity preference of $2.5M (their initial investment) off of the top, leaving $97.5M to the common pool. The preferred stockholders (the investors) and the common stockholders (founders, angels, etc.) would then divvy up the remaining capital according to their ownership percentage. The investors would get 33% of $97.5M or $32.5M and the common stockholders would get 66% of the $97.5M or $65M.
+In sum, the investors would receive $2.5M from their liquidity preference and $32.5M from their participation. This is a $35M payout which gives them a 14-times return on their initial investment. Note that the liquidity preference represented 7% of returned capital.
+Takeaway
+The scenarios above highlight the relationship the impact of the liquidty preference on investor returns. Simply, put it has less of an impact as the exit value of the company increses. The real returns in a venture portfolio are generated through the participation in the common stock pool.
+

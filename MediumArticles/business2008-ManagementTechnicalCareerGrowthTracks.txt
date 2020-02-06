@@ -1,0 +1,17 @@
+Described here is one way to enable technologists to grow their careers in your organization while still allowing them to focus on the type of work they are best at and enjoy most.
+The typical management career growth path does not suit some technical people. These information workers need to grow in their careers (gain greater compensation, responsibilities and influence) without having to become managers of other people. A good way to achieve that goal is to create a technical career growth track in your organization.
+The following diagram and table illustrate management positions alongside technical positions of similar levels.
+This system isnt meant to be rigid. It is designed to find a good balance with most organizations. That balance, i.e. how many levels of authority there are will differ across organizations. The focus of this article is to provide a technical track as an alternative to management tracks, whether there are 3 levels or 13. There are pros and cons of having fewer bands or ranks. (As a side note, some organizations like the military ((US Military Ranks)) require lots of ranks.) Ranks need not signify a strict hierarchy where one can only go from one rank to the one immediately above. The ranks could simply be used as salary bands and the levels of hierarchy of authority could be fewer.
+In this model, for example, an architect role is at the same compensation and influence level as a manager role, assuming that the particular manager and architect being compared add similar value to the company. To accommodate more ranks, a senior architect would be at the same level as a senior manager.
+If the organization prefers consistent titles for levels regardless of track, the system could name them like this: vice president & fellow, senior director & architect, etc. In the case of a fellow who is at an SVP level, they could be named SVP & distinguished fellow.
+Here is a definition of the fellow role from WikiPedia: ((Definition of Fellow at WikiPedia http://en.wikipedia.org/wiki/Fellow and Wikitionary http://en.wiktionary.org/wiki/fellow))
+Large corporations in research and development-intensive industries ((IBM or Sun Microsystems in information technology, and Boston Scientific in Medical Devices for example)) appoint a small number of senior scientists and engineers as Fellows. Fellow is the most senior rank or title one can achieve on a technical career, though some fellows also hold business titles such as vice president or chief technology officer.
+Such a technical career growth plan brings many benefits to your organization.
+Care should be taken to recognize that some technical people do enjoy making the transition to people-management roles and the presence such a technical track should not discourage them. Having an alternate career growth track option is about presenting employees with more than one choice.
+Similar system are also used to enable non-managerial career paths at editorial and design departments at newspapers, magazines and other newsrooms.
+Related Articles on Other Sites
+Some updates to this article are published at http://www.rajiv.com/blog/2012/12/17/tech-career-tracks-v2/
+(Thanks to Brian Murphy, Bobby Chowdhury, and Janet Kasdan for their contributions to this system.)
+(Updated: 2012-Dec-17)
+Originally published at Web Site of Rajiv Pant.
+

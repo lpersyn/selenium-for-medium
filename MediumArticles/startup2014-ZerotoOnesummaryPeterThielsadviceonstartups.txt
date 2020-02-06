@@ -1,0 +1,33 @@
+The advice come from Zero to One book. This article is a short summary of it.
+The first team Thiel built has become known in Silicon Valley as the PayPal Mafia because so many of his former colleagues have gone on to help each other start and invest in successful tech companies. They sold PayPal to eBay for $1.5 billion in 2002. Since then:
+Today all seven of those companies are worth more than $1 billion each. PayPals office amenities never got much press, but the team has done extraordinarily well, both together and individually: the culture was strong enough to transcend the original company.
+What important truth do few people agree with you on?
+Peters answer to this question is that most people think the future of the world will be defined by globalization, but the truth is that technology matters more. Spreading old ways to create wealth around the world will result in devastation, not riches (Chinese air pollution, for example). In a world of scarce resources, globalization without new technology is unsustainable.
+To introduce innovation, we have startups. Startup is the largest group of people you can convince of a plan to build a different future.
+There are some popular thoughts in startup community that were learned after dot-com crash:
+Peter points out that the opposites are valid:
+If you can recognize competition as a destructive force instead of a sign of value, youre already more sane than most
+Peter shows us a good example of the brutal competition: while U.S. airlines serve millions of passengers and create hundreds of billions of dollars of value each year, they make only 37 cents per passenger trip. On the other hand, Google has 100 times higher profit margin than all airline industry.
+Capitalism means capital. Competition means there would be no capital for you. The pie will be eaten by the other players. So, to get more capital, you need to be a monopolist and escape the competition.
+You may argue that monopolies are bad, but this is true only in a world where nothing changes. In our world its possible to invent new & better things. Creative monopolists give customers more choices by adding entirely new categories of products. Microsoft had a huge monopoly in operating systems. At the same time, Apples iOS & Googles Android emerged and overtook operating system dominance.
+When Twitter went public in 2013, it was valued at $24B  12 times higher than Times market cap. Twitter was losing money while Times earned $133M the same year. Why do startups have such big valuations?
+The answer is: cash flow. It is different between high-growth startups and low-growth businesses. Startups would usually be profitable in the future. Startups main metric is growth.
+One big error of some entrepreneurs is that they focus only on growth while forgetting about sustainability (Zynga, Groupon). Ask yourself: would your business be around 10 years from now?
+What does a company with large cash flows far into the future look like? What makes monopolists durable? There are usually four main characteristics:
+To achieve good growth, Peter got two thoughts:
+Recruiting should never be outsourced. To get talented people, ask yourself: Why 20th employee should join?
+Bad answers:
+Whats wrong with valuable stock, smart people, or pressing problems? Nothing  but every company makes these same claims, so they wont help you stand out. General and undifferentiated pitches dont say anything about why a recruit should join your company instead of many others.
+Focus on mission & team. Good answers:
+Some other suggestions:
+Silicon Valley nerds usually underestimate role of sales.
+They know their own jobs are hard, so when they look at salespeople laughing on the phone with a customer or going to two-hour lunches, they suspect that no real work is being done
+They think if the product is good enough, it will sell itself which is almost always incorrect.
+You need to learn sales. Some core ideas:
+Some distribution methods by CAC:
+Everybody sells. Dont underestimate sales.
+Renixx (renewable energy industrial index) was in a bubble until 2009. It has been in decline since then. Theyve failed because they neglected the seven questions every business must answer:
+Innovative companies achieve best results when they can correctly give six or seven correct answers. Even five may work. Cleantech companies had zero answers most of the time.
+Apples value crucially depended on the singular vision of a particular person. Same with Elon Musks Tesla. This hints at the strange way in which the companies that create new technology often resemble feudal monarchies rather than organizations that are supposedly more modern. A unique founder can make authoritative decisions, inspire strong personal loyalty, and plan ahead for decades. Paradoxically, impersonal bureaucracies staffed by trained professionals can last longer than any lifetime, but they usually act with short time horizons.
+Rand was wrong: Rand was a merely half-great writer. Her villains were real, but her heroes were fake. There is no Galts Gulch. There is no secession from society. To believe yourself invested with divine self-sufficiency is not the mark of a strong individual, but of a person who has mistaken the crowds worship  or jeering  for the truth.
+

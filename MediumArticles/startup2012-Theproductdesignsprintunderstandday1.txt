@@ -1,0 +1,27 @@
+Oct 12, 2012
+At Google Ventures, we have a five-day process for taking a product or feature from design through prototyping and testing. We call it a product design sprint. This is the third in a series of seven posts on running your own design sprint.
+Now that you know when to get your team together for a sprint and how to set one up, its time to tackle the first day of the sprint: understanding.
+Chances are that everyone involved in the sprint has different perspectives on the problem  and different information that might be helpful. The goal of the first day is to encourage everyone to share what they already know and develop a common understanding with the rest of the group. By starting at the beginning (even if some people are already familiar with the problem), it nudges the group into a beginners mindset and leads to fresh solutions. (This is where an outside facilitator can come in handy: since theyre truly new to the problem, their questions can keep the group in a beginners mindset.)
+We use the exercises below to get a ton of information on the table and quickly build understanding. You can do them in any order you want  and even omit the ones you dont find valuable. Try capping each presentation or discussion at 10 minutes. This will keep the day moving and help everyone pay attention.
+During the exercises, everyone in the sprint should be jotting down questions on sticky notes. We use the how might we format to capture opportunities that might be interesting to explore. For example, How might we build trust? or How might we figure out the users style? Often, these end up being extremely useful in the next steps of the sprint.
+Business opportunity  The CEO or product leader should walk the sprint team through the business opportunity and market.
+Lightning demos  Look at competitors products. It can also be helpful to look at non-competitive products that solve a similar kind of problem in a different market.
+Lay it out  Print out all the important screens in your product, lay it out, and walk through it as a user would.
+Success metrics  How will you measure the success of this design? Nows a great time to talk about success metrics. We like to use Kerry Roddens HEART framework.
+Existing research  If you have user research for your product, thats awesome, and you should be sure to go over it. If not, you should talk about whatever data you do know about your customers.
+Team interviews  Knowledge about the problem is usually distributed across the company. Weve found it very useful to go around interviewing people at the company who have specific expertise, whether thats engineering or sales or customer service. (Customer service people often have incredibly valuable information about the problem.)
+Analytics  Look at any data you have on feature usage, where customers drop off your site, conversion rates, etc.
+If youre reading this and feeling like the exercises will be tough because you dont have enough data, dont worry! That just means you should do some work before the sprint to quickly gather fresh data.
+It could be as simple as scheduling a few user studies or deploying a very short survey with questions related to the problem youre going to tackle in the sprint. You can also do team interviews ahead of time  this is especially useful if youve got a lot of people to talk to.
+As a group, use your common understanding to collaboratively map out the user story thats important in this sprint. The facilitator (or another volunteer) should stand at the whiteboard and sketch the flow. This doesnt have to be fancy to be useful. Heres an example:
+How do you know which user story is most important? It depends on the problem you are solving in the sprint. For example:
+This step can be difficult and time-consuming, but its critical! Getting a visual map on the wall (like the one above) is invaluable for grounding the discussion and keeping everyone on the same page.
+Youve got a rapidly approaching user study and theres a good chance you cant prototype everything you uncovered, so youll need to choose which ideas to move forward. Use your story diagram on the whiteboard to frame this discussion.
+At the end of the sprint, when you show your prototype to users, what do you hope to learn? What do you need to design and prototype in order to learn those things? What you decide here will set your course for the rest of the sprint.
+The facilitator is responsible for keeping these discussions moving quickly (remember the timer). Its also important to ask seemingly obvious questions because the answers usually further everybodys understanding.
+Now that youve fleshed out a common understanding of the problem and started to define which part of it youre going to tackle in this sprint, its time to move on to the next step: rapidly developing as many solutions as possible.
+Well cover that in the next post, so stay tuned!
+Product design sprint series
+Previous: Setting the stage
+Next: Diverge (day 2)
+

@@ -1,0 +1,164 @@
+David Siegel
+NOTE: Please link to this essay via www.theculturedeck.com, thank you.
+O
+ut of control! This is what I hear over and over, when I ask people about their processes. Despite the best of intentions, planning and execution keep getting interrupted by burning issues. According to a 2012 Gallup poll, 52% of employees are not engaged at work, and another 18 percent are actively disengaged. When I ask what their biggest problem is, managers usually say they cant find and retain good people. They work too many hours and fear they are burning people out, yet much of the time is wasted. If good people are leaving, it could be a sign that the culture is the problem.
+It may have started back in 2001 with the Agile Manifesto, but there are now a growing number of videos and slide decks on lean/agile corporate culture. Several new books on management focus on culture and process in place of predictive strategy. In this article, my goal is to put all these messages in perspective by outlining a new role that I believe will become more and more important: the Minister of Culture.
+WARNING: REAL CONTENT AHEAD! This essay links to most of the best research on culture. I suggest you skim it quickly to get a sense of whats here (5-7 min). At the end, theres a reference section linking to key content, so you dont have to hunt for it. When you have more time, read it from top to bottom (20 min  16 percent of readers). Ill also show how to generate a culture score for your company and work to improve it. Finally, by clicking on embedded links and reading suggested books, it becomes a full 3-6 month course on culture that I hope will help lead companies to create this important role. Dont think of this as a long post  think of it as a short e-book.
+What Does a Minister of Culture Do?
+The Minister of Culture could also be called the Chief Culture Officer, Leadership Development Director, or simply the person who helps everyone create a great place to work. The Minister of Culture works with individuals, teams, and groups to build culture from the bottom up. As Bill Aulet writes in his excellent piece Culture Eats Strategy for Breakfast,  culture happens whether you want it to or not. It is the DNA* of the company and is in large part created by the founders  not by their words so much as their actions. Culture isnt about what gets done, its about how and why things get done. Seen at this level, culture represents two thirds** of a companys investment in human capital 
+Does your company need a Minister of Culture? In this essay, I will outline 24 high-level things a Minister of Culture does. Most of them affect both how and why people work. For each of the initiatives, give your company a score from 0 to 4 and see whether you can use a Minister of Culture.
+1
+Change from Command to Servant Leadership
+In servant leadership, managers acknowledge that the interface between workers and customers is the value zone, where everything really happens. The goal of managers then is to support workers in doing the right thing for customers, making their own decisions and taking initiative without permission. In this culture, managers work alongside their employees. The golden rule is to empower people to do the right thing, which cant be stated in rules, because it always depends on context. When an employee makes a suggestion to a leader, its the leaders responsibility to act on it. At Google, they stopped doing employee performance reviews but now get value out of twice-a-year manager reviews by employees. As described on the web site of the GreenLeaf Center for Servant Leadership, Servant leadership is a philosophy and set of practices that enriches the lives of individuals, builds better organizations, and ultimately creates a more just and caring world. As they say at Spotify: Trust > Control
+2
+Build Workforce Democracy
+Workforce democracy, as defined by groups like Worldblu, The Great Game of Business, and Great Place to Work, is the goal of building a radically open company where people are engaged, energized, and have a say in what the company does and how it operates. For example, some companies are now adding one or more employee representatives to their board of directors. Any company can become more democratic. Some are even educating employees in financial literacy and opening their books to everyone in the company. Holocracy, which defines roles and processes for communication, asks companies to write their own constitution that everyone signs. If your company isnt yet a member of Worldblu, watch Tracy Fentons inspiring TEDx speech and begin your journey to full organizational democracy.
+3
+Create an Employees First, Customers Second Culture
+Studies show that companies where people feel like they are part of a big family are more effective and retain employees longer. Each employee deserves a chance to be healthy, to learn, to grow, and to challenge him/herself. You cant be effective if youre sick or tired or burned out. You cant be effective if you are distracted by family issues. The more workers support each other and take care of each other, the longer people stay and the more productive they are. Create a culture where employees help each other. Create a culture where employees can mix their personal and business lives to maximize team effectiveness (you dont need a law to tell you its okay to donate sick days to a colleague who really needs them). Create a culture where employees feel safe asking for help and giving their bosses feedback. Read the story of how Vineet Nayar turned his 30,000-person company upside down and put employees ahead of customers. Read the Netflix Culture deck and learn the rules (and lack of rules) behind one of the best places to work in the USA. At Menlo Innovations, they work 40 hours a week, never work weekends, have kids and dogs in the office, and have never denied a vacation request. In my view, the number one business book on culture is Richard Sheridans Joy, Inc., which describes the process at Menlo Innovations in detail.
+4
+Blur the Boundaries Between Customers, Employees, Managers, and Community
+Most companies have silos and matrixes. A company can still function well with these structures, as long as people care about each other and are willing to help each other. Titles matter very little. If someone has a serious life problem or needs help with a project, people cross boundaries to help. Employees bring customers in-house to join their project team. Some customers become ambassadors for the brand, and some of those become employees. In a strong, agile culture, the company is woven into its community, contributing to education and supporting community efforts. People who leave are still connected, and people who are near can be called in to help out when demand surges. Hubspot, with 800+ employees, holds quarterly alumni meetings to keep in good touch with people who have left the company.
+Note: blurring the lines between work and home life can create a better sense of community, but its also important to draw the line so that people dont feel they are at work 24 hours a day.
+5
+Values, Not Rules
+At companies like SouthWest airlines, Valve, Netflix, Evernote, and Hubspot, the golden rule is to do the right thing for customers, whatever that is. That one rule replaces an entire manual full of rules at many companies. For example, here is the Netflix vacation policy:
+This is part of the Netflix Freedom and Responsibility values that ask employees to use their own judgment in each situation. In that environment, everyone spends his or her time doing things for customers. At Eventbrite, the rule is: Dont complain  if you see something that needs to be fixed, its your responsibility to fix it. No one tells you what you should be doing. Its your job to figure that out. Most highly effective companies keep rules to a minimum and focus instead on hiring and development. To really drive this home, and especially for parents, I highly recommend reading Unconditional Parenting, by Alfie Cohen  it will change the way you interact with both children and adults. It may be one of the best business books ever written. Unconditional parenting shows how different your mindset needs to be to build strong, independent kids  its very challenging, requires a lot of patience, and is ultimately very rewarding.
+6
+Foster Learning, Teaching, and Sharing
+In many of todays most progressive companies, there are guilds, seminar series, internal conferences, video learning channels, podcasts, book clubs, and much more. One of my favorite methods of building this kind of sharing is to encourage people to pair up and work together. Not just observe, but actually apprentice to each other, to learn what other people know and spread skills. Everyone in the company should pair up with a customer-service person a few times per year, to understand what they go through and how customers communicate. Were finding that teamwork, sharing, and a consistent process is more important than hiring best of breed specialists. A few companies have now started just hiring when they see a person whos a good fit, regardless of whether they need a particular job done (fit > skills). Just in case youre not convinced yet, please read Malcolm Gladwells piece, The Talent Myth.
+Last year, I met with a CEO of a hot startup in Silicon Valley who said he was putting together an all-star team, where every person was the best at what he or she does. This company is a year late shipping a product that was supposed to be out the door a few months later. A company full of specialists is devoid of corporate culture and doesnt optimize the system.
+7
+Answer questions with experiments.
+Most companies work on the ship model  the company is a ship at sea, the CEO is the captain, and the officers and lieutenants run the various crews that follow the rules and procedures to keep the ship on course. They use maps, guidance systems, and experience to navigate, avoid problems, and solve them when they arise. This is a far cry from business, which is much more like an evolutionary ecosystem. In business, the environment and the rules are constantly morphing, new threats appear quickly, your own people leave to join or start competing companies, and unforeseen events can easily change your course or your business model permanently. Expertise is overrated. Many of our assumptions are invalid. We misrember the past and tell ourselves stories of competence, while discounting luck, circumstance, and the value of tinkering.
+A progressive company answers questions by doing single-variable randomly controlled experiments. A few companies, like Capital One, were founded by people who were experts at experiments. Google does around 10,000 experiments per year  in a small percentage of your Google searches, youre being experimented on. Whether they admit it or not, most companies innovate by trial and error, not by planning. For a short summary, read Scott Cook on not listening to your boss, and for a thorough understanding of the power of experiments over models and expert judgment, read Uncontrolled, by Jim Manzi. The Minister of Culture should help build an experiment-driven culture, where anyone can propose an experiment and decisions are made on the basis of what works, rather than who is most convincing.
+8
+Work in Pairs
+Although its counterintuitive, we are learning how effective working in pairs is. Two seems to be the optimal number for many tasks. What started as extreme programming has now become the de-facto way to work in many departments and many companies. Writers are even writing in pairs. It requires some training and adjustment, but two people working together helps build cross-functional people, saves time by doing better work with fewer mistakes, and keeps everyone up on who knows what. Two people, one computer, one keyboard, one mouse, one continuous conversation that supports the work. Its important to coach people on pair work, use a scrum master or project manager to schedule pairs, and to develop a pairing cadence  for example, people are paired for the week, or for the day, or for a given work session.
+9
+Develop People
+When people work in pairs, they share knowledge and develop new skills. People are energized when they learn and apply new skills to new challenges. Why hire a specialist from outside the company to come in and do something your people would love to learn by doing? Can you remember a time when you worked extra hard on a new project, doing something you hadnt done before? If you need to bring in people with certain skills, make sure they have good kindergarten skills  that they play well with others, teach what they know, and want to see others succeed. At Valve, they call this T-shaped model  they look for people who bring a specific skill but are also generalists who can do many other things. Specialists are expected to teach what they know to others, making them less critical but more helpful. While Seth Godin recommends becoming a lynchpin, so your company cant live without you, todays agile cultures strive for balance, teamwork, and the ability of others to take over your work any time. Spreading the knowledge creates more joy and happier customers.
+10
+Implement continuous delivery in all departments
+Big projects require complex orchestration and increase risk. The vast majority of change initiatives fail, and those that succeed often change very little  they just pave the way for further evolution. The Minister of Culture helps build systems that break down phase-driven projects into small sustainable sprints and reviews, giving a chance to learn and adjust. By delivering often, confidence increases; you have a chance to try things on customers, get feedback, and make changes as you go. Whether you adopt a formal system like scrum, or your own version of Kanban, a regular delivery cadence can strengthen teams and make work more predictable. Steve Jobs used to say, Real artists ship. There is tremendous satisfaction when projects ship and tremendous demotivation when projects slip. Read my Kanban overview.
+11
+Build in Continuous Improvement
+Find ways to eliminate waste in small amounts often. Build slack into the system for constant updates to the process and allow work on pet projects. Get everyone involved. This is far more than filling out suggestion cards. At the heart of the lean company is the ability to see waste in the system. When everyone can see waste, things improve gradually and continually. At Valve, all the desks are on wheels. If you think you can help customers by moving to a different group and doing something else, you are expected to move. Its good to celebrate successes; its even better to celebrate learning and taking initiative, even if the particular initiative doesnt pan out. Continuous improvement is continuous learning, and failure is a far better teacher than success. As they say at Undercurrent, Speed is the new IP.
+12
+Build a Flatter Organization
+Flat management isnt just a fad; its a sign of a lean and agile organization that keeps up with its customers. The more empowered employees are, the more they make many small decisions, the fewer big decisions management needs to make. Predictions, forecasts, PowerPoint, and employee reviews are all symptoms of hierarchy. In a flat organization, people  including the Minister of Culture  collaborate in the value zone, delighting customers. That doesnt mean we should eliminate managers entirely; it means were heading toward flatter organizations where managers do more coaching and make fewer decisions. Asana uses a distributed-responsibility scheme called areas of responsibility. The awesome Spotify Engineering Culture video talks about striking a balance between autonomy and strategic alignment. Zappos has gone completely flat and ships a culture book annually to let their people express themselves to the world.
+13 Make it Safe to Fail
+In a fear-driven culture, no one wants to be seen making a mistake. These days, fail early, fail often is a buzzword. Its important to tolerate, encourage, and even reward small failures. Heres why: if everyone is afraid to make a small mistake, this fosters a de-facto culture of enormous risk taking. How can that be? Because avoiding small risks encourages taking big risks. Managers who take large business risks and fail will simply be fired (taking what they have learned to the competition), while those who take large risks and succeed will be promoted on the premise that they knew what they were doing and had vision. The few that make it to the top this way will be overconfident and wont understand the fickle nature of their markets. Sound familiar?
+14
+Make Meetings Work
+For starters, its fairly easy to make meetings less awful than they are today. A few simple rules, like agreeing that meetings are only for when everyone needs to know something critical or for when a decision is to be made, will go a long way to cutting down on meetings in the first place. But to truly make meetings work, you need to get everyone on board with a process that works. Dave Logan suggests several steps you can take immediately to end death by meeting. One of the main points is to keep track of what works and what doesnt, so you can continuously improve the process. Making issues explicit  putting them on the walls  avoids a lot of information-distribution meetings and encourages continuous collaboration. Building teams with cognitive diversity helps explore more options and find more solutions. The Minister of Culture doesnt make or enforce the rules  he or she assists people in setting up and using systems that work.
+15
+Eliminate Interruptions
+We are learning how deadly interruptions really are. Multitasking is a myth that persists because we want to believe it. The cost of interruptions is far larger than you think. Once everyone agrees on a system, product owners and managers must protect their employees from sabbotageurs, who would love nothing more than to come in and reprioritize. We think we are good multitaskers, but thats an illusion. Lean workplaces work to extinguish interruptions from all sources. Keep in mind that around 70 percent of all projects fail, mostly because the culture doesnt support a process that works, and often the breakdown is interruptions. I recently met a company that adopted scrum more than a year ago, and it has not yet managed to complete a single sprint, due to constant interruptions from top management.
+16
+Get Everyone Involved in Hiring
+The Minister of Culture also coaches and gets along well with the HR people, helping them get feedback and focus on what works. Since most HR departments base their work on myths and misperceptions, an effective HR department is actually quite small. Several successful companies have gotten rid of HR entirely, moving benefits and payroll to the back office. The flatter the organization, the more everyone is responsible for hiring. Read the Valve Employee Handbook to learn how everyone contributes to the process. Read the awesome Hubspot Culture Deck to see how important hiring and values are to them. Hiring specialists who recently did the thing you need done will not contribute positively to your culture, and no one will be surprised when they leave to do it again somewhere else. You should be looking for multiple skills and a learning attitude. Look for people who have experienced failure, faced adversity, and learned new skills.
+At Menlo Innovations, they dont accept resumes. Instead, they have open hiring days, where they look for people with good kindergarten skills  supporting each other, helping others win, teaching what they know, and learning new tricks. My suggestion: hire for culture fit first, attitude and learning/teaching ability second, and skills third. Read my piece on hiring and culture.
+17
+Make the Work Environment Reflect the Culture
+Too many companies mistake the artifacts of culture for culture itself. They substitute free food and ping pong tables for work that gives people a feeling of accomplishment and satisfaction. When a strong culture emerges, the environment often gets more messy and personal, though at some places they like to keep it clean and neat  its a reflection of the culture. This post by IDEO team member Jimmy Chion describes how the right culture creates the rituals and artifacts on its own. Create a company vocabulary of love and terms of endearment that help people care more about each other. To show this concept of culture first, environment second, Ill just let you watch the Mindvalley culture video and get inspired.
+18
+Make the Work Itself Rewarding and Fun
+This piece, Employee Satisfaction Doesnt Matter, by Jim Clifton, CEO of Gallup, hits the nail on the head. Work should be meaningful, fun, and rewarding. Not every day is glorious, but no one minds grunt work in the service of a meaningful project or process. As Frederick Herzberg has noted in his Harvard Business Review article, One More Time: How do you Motivate Employees?, achievement and recognition are the two largest motivating factors by far. When employees have a say in what gets done, when they create systems that build predictability and confidence, when they get up in the morning wanting to do the work, rather than earn points or more vacation time, you know youre building a strong culture.
+People dont work for money. You cant pay them twice as much and get twice as much work out of them. Heres Dan Pink talking with Polly LaBarre about ways people can hack their work environment to make work more meaningful.
+19
+People Must Buy into and Believe in the Mission
+Creating purpose is probably even more important than creating values. If people dont know why they are coming to work, other than to increase share price and take home a paycheck, they wont be engaged. Hedge funds and banks really struggle with this, but its possible. People want to be part of something bigger, something meaningful. If your company simply exists to draw fees and make money, rally people around a cause and get everyone working toward it.
+I believe most companies with strong, clear culture statements first evolved their culture to learn what works and then created their culture documents to reflect what was already happening. The actions came first, the words came second, and the culture continues to evolve. Its not a c-level exercise in words that are then distributed and people follow. Reed Hastings said about the Netflix Culture Deck:
+Its what we wish we had understood when we started. More than 100 people at Netflix have made major contributions to the deck, and we have more improvements coming.
+20
+Formalize Decision Processes at Every Level
+Most companies apply the HIPPO method of making decisions  they decide according to the highest-paid persons opinion. The Minister of Culture helps establish a proven methodology of decisionmaking that applies to every meeting. The protocol should help people understand what information they will need to make a decision and what process to follow. Assume less and observe more. Break big decisions down into small initiatives you can try before committing. Run competing experiments against each other. Build awareness of cognitive biases and traditional management methods that sabotage learning. Start by reading Chip and Dan Heaths Decisive, followed by Phil Rosenzweigs Left Brain, Right Stuff, and explore the literature of decision science at the Society of Decision Professionals, Hubbard Research, and SmartOrg.
+21
+Learn to Measure and Manage to Measurement
+Most companies now say they are numbers driven, but most measurement processes are deeply flawed and yield far less signal than most people think. Were just learning the extent to which cognitive biases impair research. For example, many companies put a lot of effort into measuring their Net Promoter Score. There is a lot of science behind Net Promoter, but most of that science is not impartial and has an agenda. It means less than you might think. Carefully scrutinize all hard measurements for cause-and-effect relationships, and beware of single-number scores that obscure the details. Even though everyone knows correlation is not causation, research shows that people have a tendency for closure  they find simple, convenient explanations for what they dont understand.
+For every complex problem there is an answer that is simple, clear, and wrong. -H. L. Mencken
+22
+Surface the Hidden Stories
+A minister of culture helps discover the hidden details that shape future decisions. Customers and employees wont tell you what they really think in a survey. Use elicitation methods to learn what they are really thinking. Qualitative research often finds weak signals that should be amplified. Listen to Dave Snowden of Cognitive Edge talk about tacit knowledge. Look at tools like SenseMaker to gather stories and find patterns.
+To learn how world-class companies manage risk by watching for outliers and listening to weak signals, read the amazing Pushing the Boundary piece by Zurich Insurance.
+23
+Create Feedback Loops and Institutional Memory
+Most companies dont measure the outcomes of their decisions, but a few do. This is one of the best ways to improve decisionmaking and overall agility. Doug Hubbard of Hubbard Research talks about this in his book, How to Measure Anything, saying, Very few experts actually measure their performance over time, and they tend to summarize their memories with anecdotes. They are right sometimes and wrong sometimes, but the anecdotes they remember tend to be more flattering to them. By making decisions and outcomes explicit, we can use past mistakes to improve each new decision. Recognizing uncertainty means that a decision can be right, even if the result is failure, and a decision can be wrong, even if it works. The Center for Applied Rationality offers courses and workshops that help bring more useful information to the surface and more rational processes that helps eliminate biases and personal preferences in business decisions.
+24
+Be Nice
+Theres no reason to work with unpleasant or obnoxious people. Its not all about results. Its about teamwork and sustainability. Several companies have now adopted Bob Suttons No jerk Rule. Treating each other respectfully and practicing kind speech should be as important as getting the job done.
+How does your company address these issues? If you gave your company a score of 2 or better for any of these initiatives, thats pretty good. If your total is above 30, youre off to a great start. While its far from a proper survey, it may show where your company can use improvement. Dont say its hard to change culture. Just get some people together and start improving. Ask how you can most quickly move one of these areas up a single notch. Or  hire a consultant (listed below) to do a culture audit, which will surface many weak signals you may not have seen and give you a good starting point for gradual change.
+To wrap up 
+A new model of the company is emerging, and culture is at the heart of this revolution. As they say at Thoughtworks, companies need to move from the factory model to the laboratory model. At Undercurrent, they call it the Responsive Organization. Their CEO Aaron Dignan gives an inspiring overview in his essay on the new operating system of business:
+These companies are lean, mean, learning machines. They have an intense bias to action and a tolerance for risk, expressed through frequent experimentation and relentless product iteration. They hack together products and services, test them, and improve them, while their legacy competition edits PowerPoint. They are obsessed with company culture and top tier talent, with an emphasis on employees that can imagine, build, and test their own ideas. They are maniacally focused on customers. They are hypersensitive to friction  in their daily operations and their user experience. They are open, connected, and build with and for their community of users and co-conspirators. They are comfortable with the unknown  business models and customer value are revealed over time. They are driven by a purpose greater than profit 
+The Minister of Culture comes to work every day with a smile and compassion for others, is a good listener, and helps people find better ways to work. It starts with small steps. Once you have earned the trust of people through listening and empathizing, you become a resource for everyone in the company. Initially, you are flooded with requests for your time and help. You spend years coaching and making thousands of small improvements. Eventually, though, youre out of a job, because the company has adopted all these processes, and now everyone in the company is in charge of culture. A strong, agile culture lets companies grow out of control in a good way  from the bottom up, where employees interact with customers, without managers having to make every decision.
+Culture Decks
+The Valve Employee Handbook
+The Netflix Culture Deck
+The Hubspot Culture Deck
+The Big Spaceship Culture Deck
+Videos
+Mindvalley culture video
+Spotify Engineering Culture video, by Henrik Kniberg
+Agile Product Ownership in a Nutshell, by Henrik Kniberg
+The Paul Akers Talk on Lean Manufacturing  riveting!
+Words
+Culture Eats Strategy for Breakfast
+The Talent Myth, by Malcolm Gladwell
+The Zappos Culture Blog
+The Myth of Multitasking
+How to Let 999 Flowers Die, by Freek Vermeulen
+One More Time: How do you Motivate Employees?, by Frederick Herzberg
+Aaron Dignan on the new operating system of business
+Thoughtworks essays on organizational agility
+The Insanity of the What-by-When, by Brian Robertson
+The MIX, the Management Innovation Exchange
+Pushing the Boundary, by Zurich Insurance
+Books
+Joy, Inc. by Richard Sheridan
+Rework, by Jason Fried and David Hansson
+Kanban, by David J. Anderson
+Unconditional Parenting, by Alfie Cohen
+Two-Second Lean, by Paul Akers
+Uncontrolled, by Jim Manzi
+Here is a list of culture-hacking books
+Consultants
+Hubbard Decision Research
+Decision Strategies
+Smart Org
+The Center for Applied Rationality
+Patty McCord  Workforce Science
+David J. Anderson  Kanban training
+Crisp, in Sweden
+Leanability, in Austria
+Business Agility Workshop
+The 24 Aspects of an Agile Culture
+Change from Command to Servant Leadership
+Build Workforce Democracy
+Create an Employees First, Customers Second Culture
+Blur the Boundaries Between Customers, Employees, Managers, and Community
+Values, Not Rules
+Foster Learning, Teaching, and Sharing
+Answer Questions with Experiments
+Work in Pairs
+Develop People
+Implement continuous delivery in all departments
+Build in Continuous Improvement
+Build a Flatter Organization
+Make it Safe to Fail
+Make Meetings Work
+Eliminate Interruptions
+Get Everyone Involved in Hiring
+Make the Work Environment Reflect the Culture
+Make the Work Itself Rewarding and Fun
+People Must Buy into and Believe in the Mission
+Formalize Decision Processes at Every Level
+Learn to Measure and Manage to Measurement
+Surface the Hidden Stories
+Create Feedback Loops and Institutional Memory
+Be Nice
+David Siegel is a management consultant based in Zurich (if you are on LinkedIn, please connect). He writes on business issues at Business Agility Workshop, makes YouTube videos, blogs the latest developments, writes on other topics, and tweets after lunch. If you liked this piece, please recommend it, below. Thank you.
+*Companies do not have DNA. This is an overused analogy that is often unhelpful and should not be used to convince people of anything.
+**This is the venn-diagram proportion fallacy. Venn diagrams are good for illustrating relationships, but the proportions are almost always wrong.
+

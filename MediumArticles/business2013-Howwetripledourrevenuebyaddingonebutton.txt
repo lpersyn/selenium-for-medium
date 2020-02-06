@@ -1,0 +1,32 @@
+Bilingual Child was supposed to be an experiment. We built it in 6 weeks, working on it nights & weekends.
+The app was free to download with one available book, including ten vocabulary words, and two additional books offered as an in-app purchase of $1.99.
+For the first two months after releasing it we let it sit. We had never released an iOS application and had little idea what to do to market it. To our surprise, it slowly picked up steam. $5 a day. $10 a day. Then $15 a day.
+We played around with the keywords and categories it was listed in and it settled in around $20 per day.
+For the first year the sales were steady, the reviews were good and we were already a year into the development of the followup project  the real app that we wanted to build in the education space.
+Right around Christmas we optimized our keywords and increased the price from $1.99 to $2.99. We saw a slight decrease in purchases per user, but we saw a big jump in our revenue.
+The increase in revenue moved us into the top grossing education chart.
+We were excited.
+Throughout the first year we realized 3% of our customers were purchasing the first book. Of those 3%, 70% would purchase both books.
+Which meant that of our paying customers 70% percent were purchasing everything we had to offer.
+We were losing sales from not having enough content.
+We got to work putting together seven more books which would round the app to an even ten books (one given away for free). For each book we included 10 vocabulary words. In order to do this we needed to find a native speaker to record the audio at a local recording studio. We then had to design the 70 new icons for the game and put it all together in the app.
+With the release of the next seven books we assumed most users would drop off purchasing around the fifth book resulting in a max purchase of $14.95 for less than 20% of our purchasing clients.
+Then came the magic weapon.
+We had been talking to the CEO of an E-commerce platform for high school apparel about their pricing model targeting parents and grandparents. They build online stores allowing families to purchase school branded apparel for their children. The secret sauce was on the first page after the buyer landed on the store.
+There was simply a button that read Buy All.
+This is where the majority of their revenue was generated. Parents, and especially grandparents, couldnt resist it.
+In April we added seven more books. Each book was still priced at $2.99 leading to a total available purchase amount of $26.91 if parents bought all ten books. That would require them to click on each book and spend $2.99 for the ten vocabulary words inside.
+On the landing page we also included an unlock all option for 12.99. Our theory was that more people would purchase the unlock all option than would have purchased the first four books and wed convert those that would have purchased just one or two books into customers spending $12.99 instead of $5.98.
+To date  the unlock all has been our highest grossing option.
+From the time that we launched the seven additional books there is a steep drop-off after the first two books (Colors & Numbers) in the number of purchases.
+Though the number of purchases is less  the Unlock All button generated approximately $4.5k more than the previous top seller.
+I attribute this to the convenience of buying all, the realities of our target audience and the perceived value of receiving 1/2 off.
+Parents are busy & have too much on their plate as it is. We know our application isnt just used to introduce kids to a second language. Its also used to give the parent a break, a quiet car ride, or a trip to the bathroom. When concluding on an Unlock All button we knew that this would factor into the buying decision. Its a time saving option that buys a kids attention for a longer period of time.
+The convenience of unlocking all the books at the same time and letting their child be entertained with out interruption far outweighed the possible savings of a couple dollars if all the books werent utilized.
+By raising the price of each book we raised the perceived value of the content to $26.91. While we knew most of our users werent going to buy every book, buying the entire content of the application for half price was an attractive offer for the majority of our users who would have spent an average of $5.98. We benefited by receiving a larger amount today, rather than waiting for payment tomorrow. They benefited by gaining access to all of our content for half the price.
+Raising our prices and adding a convenience option paid off big time for us. Giving parents an easy way to purchase all of our content at once at a discounted rate proved to be the most attractive option even if the price point was much higher than most of our competition. This additional revenue helped to push us into the 100 top grossing education apps in the store, driving more downloads and more purchases.
+Dont be afraid to charge more for your content
+Of the five additional apps weve built around this concept  Bilingual Child remains our top grossing educational app. The experiment has truly become the main product.
+I host The Rocketship Podcast where we cover business topics from early growth to funding and everything in between.
+Im on twitter @michaelsacca.
+

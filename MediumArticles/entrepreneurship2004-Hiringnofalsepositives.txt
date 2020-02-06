@@ -1,0 +1,11 @@
+Other than fundraising, nothing I do as an entrepreneur is as important as hiring. But, hiring is tricky because its so easy to loosen standards, especially when youre feeling in a pinch for people. But, I always keep two things in mind when hiring, no matter how desperate I feel.
+1. a bad employee does far more damage than no employee, no matter the issue.
+2. A players hire A players, B players hire C players, and C players hire losers. Let your standards slip once and youre only two generations away from death.
+I recently finished How Would You Move Mt Fuji. Its about the role of the Microsoft-style puzzle interview (you know, how many manhole covers are there in the US). In the book, they mention that Microsoft
+seeks to avoid hiring the wrong person, even if this occasionally means missing out on some good people. The justification is that never before has it cost so much to recruit, maintain, and  heaven forbid  discharge an employee
+I like the way David Pritchard, director of recruiting for Microsoft says it.
+The best thing we can do for our competitors is hire poorly. If I hire a bunch of bozos, it will hurt us, because it takes time to get rid of them. They start infiltrating the organization and then they themselves start hiring people of lower quality
+Ding ding ding. We have a winner! Any hiring process should focus on never letting in a bad fit. Even if that means accidentally rejecting a lot of people that would be good fits. Said another way, it optimizes for no false positives, even at the expense of false negatives.
+The Google hiring process is notoriously long and complicated. Internally, its kind of a Liberum veto thing  a single no-vote of the hiring committee means youre not in. Why? Because they put the principle of no false positives to work. They assume that there is a huge talent pool of great people and that they can afford to pass on people that would be great fits in order to make sure they never let someone through who doesnt fit.
+Trust me. Its so hard to do. Especially in a startup where youve got much more to do than you have people to do it. But, slip up, even once and its trouble fast.
+

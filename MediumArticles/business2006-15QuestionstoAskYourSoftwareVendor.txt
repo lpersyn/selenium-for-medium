@@ -1,0 +1,29 @@
+When making a decision to buy any piece of software there are a number of criteria typically evaluated. One of the most important elements in the decision process is the strength of the company that builds the software. In fact a survey of 19,000 customers has identified that company strength is the most important factor in choosing software, with the price of the software being the fifth most important element.
+In evaluating a companys strength I would suggest you ask the following 15 questions, the answers to which will provide invaluable information in determining the viability of the company, their processes and their commitment to the product you are reviewing.
+1. How long have you been in business?
+2. When was you last upgrade released? When is the next one planned?
+3. Whats involved in doing an upgrade?
+a. Can your customers do it?
+b. Are upgrades included in your annual fee?
+c. Are they downloadable from your website?
+d. Is documentation (installation instructions etc) included with the upgrades?
+4. Are manuals available for the software?
+5. Does the software update cost include phone based tech support?
+6. What percentage of customers are current with their annual support contract?
+7. Where is the product heading? Technology/Functionality? When do you plan to get their?
+8. When did you last put your prices up?
+9. Are you planning for the next realease of Windows yet?
+10. Can i build my own reports?
+11. Why did you choose your current development platform?
+12. What does it cost to have someone come onsite a fix a problem?
+13. Who does the training, are there scheduled courses?
+14. Can i talk to a customer who implemented in the last 6 months?
+15. How much have you spent on research and development in the last 12 months?
+Importantly there is no right or wrong answer to these questions, and the answers may vary greatly from one vendor to another. There are however some answers that should throw up a red flag:
+Question 6  This is generally a good guage of customer satisfaction. If the vendor can not provide this information, or is not willing to do so then you can anticipate a support issue or poor customer satisfaction with the product.
+Question 10  You should always have the ability to get to your own data. If you require a programmer to build new reports then you will consistently be biting into your ROI.
+Question 14  If the vendor skirts around this issue then they are uncomfortable letting you talk to a recent customer and therefore maybe hiding something from you, perhaps a difficiency in their product or in their implementation process.
+Question 15  The answer to this question identifies how productised the software is. A vendor who regularly evaluates their customers future requirements and spends money on building these into their product is committed to its current customers. A vendor who spends money only as required is probably not so committed to building a great product as they are to getting sales.
+When getting answers to these questions please also consider that their may be legitmate commercial reasons as to why a question can not be answered, however at a bear minimum your vendor should be able to provide some background into their reasons for not answering.
+There are another four important criteria upon which any experienced buyer will evaluate a software purchase which will be covered in future articles.
+

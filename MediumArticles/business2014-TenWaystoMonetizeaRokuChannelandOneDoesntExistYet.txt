@@ -1,0 +1,54 @@
+By Phil Autelitano
+For Roku developers, and anyone launching a new Roku channel, creating a new TV channel is one thing, but once you have this great looking channel, jam-packed with compelling content, ready to roll, how do you plan to make money with it?
+Undoubtedly your first answer will be, With advertising!
+Most Roku channels are monetized with advertising. It only makes sense (no pun intended) because thats how regular TV channels make money, and its a model that translates well from the old technology to the new.
+Most Roku channels integrate with an advertising network, like AdNexxt (www.adnexxt.com) that streams ads and pays you per M or per view. Its a great system  it works, it makes money and I totally recommend streaming ads for EVERY Roku channel.
+So theres your #1  video advertising networks. Sign up with a video advertising network, add their code to your channel and voila! youre already making money. I do however recommend signing-up for more than one, as most ad networks only fill 4060% of your ad breaks. (Use any of them along with AdNexxt and youll always have 100% of your ad breaks filled.)
+For more information on ad networks and how to make money with them, youll want to read this other Medium article, too: How to Make Money with Your Roku Channel
+Next up, you can approach individual advertisers and have them pay you directly to advertise say, a 15- or 30-second spot on your channel, X number of times, etc. Of course, this requires a bit work  or selling where the latter didnt, but you can easily earn a lot more. Of course every channel is different, and some content is more valuable to potential advertisers than others, so I wont try to tell you HOW MUCH to charge. Youll have to feel it out at first. Id suggest not being too pricey at first, considering the amount of registered viewers you have starting out.
+You can sell advertising in addition to using the advertising network.
+So there you have # 2  direct advertising; sell ad spots on your channel and insert them manually into your content.
+Now lets move on to #3  sponsorship. Consider finding ONE financial sponsor to sponsor your entire channel. This can be a lot easier than selling spots to individual advertisers, and it can easily be done in addition to using an ad network.
+With sponsorship, you simply find a strategic partner to flip the bill for the entire channel, and hopefully, leave you with some profit at the end of each month.
+Your content would need to be relevant to the sponsor  i.e., Bass Pro Shops sponsoring a fishing channel, or Betty Crocker sponsoring a cooking channel  and theyre probably going to want you to brand it with their own logo or theme, or at least a complimentary color scheme. And yes, theyre probably going to want some say in the content you present.
+And that leads me to #4  product placement.
+Product placements are when companies pay you a fee to mention, display or feature their products within your content. You see this a lot on TV shows, where a company like Coke pays to have that shows characters drink their soda. Sometimes its more blatantly obvious than others.
+Depending on the content you create, you may have inherent opportunities to sell product placements. Sticking with the fishing and cooking channel themes, maybe Zebco, a manufacturer of fishing reels, is willing to pay for you to use their reels excslusively in your show  and periodically remind people of it. Or maybe theyre just willing to provide the equipment, and not pay, in which case, TRADE (barter) is always good, too.
+For the cooking channel, maybe Betty Crocker will pay you to use ONLY their products in your recipes  or maybe theyll provide them free or trade out, too. You never know unless you ask.
+Youll be surprised, when you start telling people you run a TV channel, how they all want to get involved. Thats part of what makes it fun and interesting.
+Now on to #5  Banner ads and text ads.Yeah these are kind of boring but, they DO make money. By banner ads and text ads I mean, incorporating them into your channels theme as well as into the content itself  i.e., superimposing them at the bottom of your videos, flashing them at the beginning or end of a sequence, or something as simple as adding contact info or URLs to it.
+For instance, maybe youre presenting a travel video on New York City. In that video you feature several restaurants. You can, in effect, sell those restaurants on having their contact info  phone, email, URL  superimposed. Theyre not going to pay a fortune for it, but it all adds up in the end.
+Almost there, #6 is donations.
+If theres one thing theres a lot of on Roku, its churches and religious content. Most of them are able to present their content because of the generosity of people who donate. Thats not to say you have to be a church or a non-profit to accept donations.
+Maybe youre running a channel with specialized content for only a select few  like a birdwatching channel, or a channel for Scion enthusiasts, or the Donny Osmond fan club channelin which case some of your viewers would be more than happy to donate regularly to help you keep it going.
+Donations dont have to come through the channel itself, (Roku isnt enabled for that, yet) but can always be sent snail mail, or PayPal, or you can set up payment processing through a website.
+If your content means a lot to even a small subset of people, dont be afraid to ask for donations.
+After donations, we have #7  Roku Billing Services.
+This is a service offered by Roku that allows you to sell access to your content, by one-time fees, and monthly- or yearly subscriptions, directly through the Roku Channel Store. They can also set you up to sell certain consumable and non-consumable products, although there is an application and approval proces. And Roku takes 30%.
+This is how a lot of channels offer pay-per-view movies and content. If you can go that way, great  I wouldnt suggest running ads in your PPV content though.
+You can find out more about Roku Billing Services on the Developer site.
+On to #8  Performance-Based (or Per Inquiry) Advertising.
+This may be a new one to you. With Per Inquiry Advertising, you run the ad spots for your advertisers but instead of them paying you up-front for the spot, they pay you a commission on the back-end for all the sales those ads generate.
+If you have a busy channel, this can be more lucrative than being paid up-front.
+Per Inquiry Advertising is typically done through the use of a special toll-free number or a specific product code  i.e., ROKUDEAL  or it can be set-up with a coupon code (use code SPICE123") or an affiliate URL  i.e., Sign up now at www.RokuDeals.whatever! with that URL masking an affiliate link that forwards directly to Roku Store.
+In all of those instances, the video content must be customized with the specific phone number, code, or URLs. In many cases its often worth the effort.
+Traditional TV channels do this a lot with consumer products like Sham-Wow and Ginsu Knives, but it can also work well with services. And it doesn;t always have to be a direct purchase  maybe the advertiser is willing to pay just for a lead it generates, like an insurance quote, or a mortgage quote.
+AdNexxt (mentioned previously) also offers performance-based advertising solutions to Roku channels.
+Next up is #9  Infomercials.
+Bigger than commercials, infomercials typically run 15, 30, or 60 minutes. Theyre not exactly ideal for Roku, but with the right production, amid the right content, they can be perfect for this venue.
+Infomercials can be created to incorporate the basic advertising element  i.e., telling and selling like most ads do  along with the Per Inquiry and/or product placement elements mentioned previously. This makes for a win-win situation for everyone.
+The best infomercials are the ones that dont look like infomercials. They have actual value, they actually teach you something WHILE selling you. They can be an entire show about real estate investing, for instance, but peppered with plugs for a specific real estate free report or book. Or they can be an interesting show on healthy living or food or travel, but riddled with calls to action.
+Dont rule out infomercials if you or your advertiser have the ability to create them. They can serve two purposes  they can act AS content AND as revenue-generating advertising.
+Finally, #10  TVcommerce.
+Ok, this one isnt here yet, but it will be soon, or at least it needs to get here soon
+With TVcommerce, viewers can shop on their TV much like they would on a website, using the Roku remote to navigate categories and products.
+When they find what they like, they simply add it to their RoCart and checkout like they would with a typical shopping cart system. They enter their payment information  or maybe its already saved  and the transaction is completed.
+TVcommerce technology would integrate with your payment processor gateway  i.e., Authorize.net  so you receive payments to your own bank as you normally would.
+TVcommerce technology would allow for ANY product or service to be sold via your Roku channel. Viewers should be able to click-thru banners or text ads, whether embedded in the channel theme or the content itself, to learn about products and ultimately make purchases.
+Were already part of the way there. Im already seeing channels with clickable ads that take you to informational pages or open up new videos, but we need to take it that step further to incorporate an actual ecommerce element.
+eCommerce is the missing link and once we have it, Roku will have created The Synergy the Holy Trinity of Internet, eCommerce, and TV; the ecommerce equivalent of the Singularity  and every advertiser and marketers wet dream.
+ @PhilAutelitano
+Phil Autelitanos company, Mediarazzi, develops and monetizes TV channels for Roku. You can learn more at: http://www.mediarazzi.com.
+If youre looking to launch a Roku or other connected TV channel or already have a Roku channel you want to monetize, email phil@mediarazzi.com today!
+If youre looking for a streaming ad service, visit www.adnexxt.com
+

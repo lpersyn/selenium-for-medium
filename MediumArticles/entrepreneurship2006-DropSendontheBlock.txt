@@ -1,0 +1,10 @@
+Our friends over at Carson Systems have announced that they are selling their online files storage solution DropSend. Its exciting to hear that they are selling this service, as it has grown over the last year to 45,000 users (as reported by Ryan Carson at the Future of Web Apps Conference Aug 06).
+
+As only a master of online buzz building can do, Ryan is live blogging the sale at BareNakedApp.com, which is the site where he live-blogged the development of their most recent product Amigo. In what some on his blog have characterized as a misstep, he revealed that he was having IM conversations with Flock, the alternative browser company, as potential buyers. This lead to the story breaking over the weekend on TechCrunch, which has undoubtedly driven a tremendous amount of awareness of the sale.
+
+Since we have a little experience with this whole project selling thing, we thought wed offer some unsolicited advice to the any potential buyers and to Carson Systems team.
+
+To All Potential DropSend Buyers:
+To Carson Systems:
+Best of luck with the sale to Ryan, Gill, and all of Carson Systems. Well be watching BareNakedApp.
+

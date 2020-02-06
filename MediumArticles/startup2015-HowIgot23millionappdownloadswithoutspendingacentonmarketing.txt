@@ -1,0 +1,115 @@
+The story of how an app I built in 6 hours got 2.3 million downloads, generated a full-time salary and was acquired after 18 months.
+This was originally a 5 part series on my blog at stuartkhall.com titled An App Store Experiment, but here is a summary of the entire story.
+Rewind back to May 2013 and I was co-founder of a music app startup called Discovr. We had managed to achieve over 4 million downloads, raised over $1m and were perceived as successful (unfortunately things didnt end up that way) in our home town of Perth, Australia.
+It was very common for people to come up to me and ask what the magic was to make a successful app. Wed fudged our way through and somehow made something people wanted to download, but could I recreate it?
+I was lucky enough to be reading an advance copy of the amazing book The Fortune Cookie Principle which really opened my eyes to storytelling and products.
+I was also inspired by reading this advice from the One More Thing conference about how to write a press release. Surely its impossible to stand out with a press release like that?
+I wanted to build an app in one night, not tell a single person about it and run some experiments on it to see if I could get it to some level of success. I thought maybe I could get a few thousand downloads and make a couple of hundred bucks.
+I wanted an idea that I had no domain advantage in at all, so what better for a chair-bound developer than a fitness app. The 7 Minute Workout was getting a lot of press (and buzz) at the time on sites like the New York Times and Hacker News, so I already had some customer validation around the idea.
+There were a couple of key goals for the app:
+Many other ideas and features ran through my head, including:
+Given a short time frame all this had to be cut (for now).
+Five hours later I emerged with a couple of screens (dynamically filled with different data) and some text to speech. Im no designer so there were no graphics, all flat views.
+Another hour (yep I went over) was spent throwing together an icon (again a flat colour with the number 7, as my design skills are limited) taking some screenshots and writing up a basic description.
+I was amazed that the name 7 Minute Workout was still available, I assumed there were other apps waiting for review, I was right.
+Built and submitted in 6 hours. The wait begins.
+After 6 days and a couple of minutes review time it was approved. Nobody else knew I had made it (I didnt even tell my wife).
+By this time there were several other 7 Minute Workout apps in the store. So the aim in the first week was to just let it run without telling anyone and to make no attempt to get press.
+I was expecting very little, but was surprised to see that it actually sold a few copies with a steady rank.
+Nothing world changing, but still not bad when relying 100% on people discovering it via the App Store.
+So version 1.1 was all about marketing. I added social sharing when a workout was completed (Twitter, Facebook & Email) and a review nag on the third completed workout.
+Following the guide for the perfect press release above (except I attached 4 promo codes each) I sent emails out to ten of the biggest app review sites.
+Guess what happened? Absolutely nothing, not one reply, one site gave away their 4 promo codes on Twitter, the only 4 promo codes used. So it appears none of them even installed it with the promo code.
+So for the next week sales basically ticked along pretty flat.
+That was 3 hours wasted! What I learned from that confirmed what I already believed  you need to sell your app with a story, preferably to people you have built up a relationship with previously to get noticed.
+The next stage of the experiment was to expand the market size by adding iPad support.
+Again keeping it really simple exactly the same views were used within a split view. So this only took about 2 hours, another 30 minutes to create some screenshots and submit the update.
+Again it made almost no difference to sales, if anything it went backwards.
+It was time to go free. Id had some experience with price changes before and knew how effective they could be.
+Late one night (I am in Australia), while the US was waking up I set it to free and went to bed. Wow did things get interesting!
+I think the chart says it all.
+I was floored. 216,718 downloads in 3 days, an average of 72,000 per day, up from an average of 28 per day at paid, or over 2500x.
+It became the #1 fitness iPad app in 68 countries. The #1 fitness iPhone app in 49 countries.
+And top 10 overall in 12 countries. It even made top 5 overall in countries like Netherlands, here it is on the front page:
+In the US (where the majority of downloads came from) it made the top 25 overall on iPad.
+It also lead to some amazing reviews (tracked thanks to my service Appbot).
+This lead to many, many emails from free app of the day sites as well as companies trying to sell paid installs. One of my work mates came up with a good response).
+Ill admit at this point I couldnt keep it quiet any longer, four people knew about the experiment and promised to keep it quiet.
+Now I was staring at the stats not knowing what to think. I still have no idea why it has done so well at free. It definitely wasnt me promoting it and it wasnt the press covering it.
+Now came the first part of the blog post, everything that had happened up to this point. The blog post did reasonably well, almost 20k page views, 220+ Tweets, 50 Facebook shares and number 2 on the front page of Hacker News.
+And everyone knows the front page of Hacker News is instant success for any product, right?
+When the downloads began to fall, they kept falling in a very neat curve. As you can see the front page of Hacker News didnt have any noticeable impact.
+I have a love-hate relationship with in app purchases. They are the best way currently to provide a trial, but in my opinion are abused by many developers (Kids games are often the worst offenders).
+I had many requests to make the workouts a bit more flexible in time and sets, so thought this was the perfect opportunity to add a pro upgrade.
+Pretty simple, some extra functionality for a few bucks.
+How does In App Purchase (IAP) stack up against a paid download? For this app it was an increase of over 3x from around $22 per day to around $65 per day. The IAP converts at approximate 23% of the downloads per day.
+More than 50% of the downloads have always been from the US, with countries like Canada, Netherlands, Philippines and the UK all being about 1/10th of the US.
+Something I have seen work well in the past is local App Store description translations. So based on a few recommendations I translated to Portuguese, Japanese, Italian, German, French and Chinese (Simplified). Using https://www.icanlocalize.com this cost approximately $100.
+Overall this part of the experiment was a total fail having almost no effect on the number of downloads from any of those countries.
+Ive always had the most success with growing products using a process called Feedback Driven Growth.
+Its a process where you:
+If you get a low volume of feedback you can do this manually, otherwise tools like Appbot automate this entire process.
+Using this process I identified the most common request was a workout log.
+So I added one as part of the IAP:
+This lifted the IAP sales to around $75 per day:
+Flat design has been an interesting one, two major issues repeated themselves consistently, both around what is tap-able.
+First one is the actual rows being tap-able, which I seemed to solve by adding a little disclosure indicator.
+The other is the workout log button, people dont realise this is tap-able (and why would they?).
+For the rest of 2013 the downloads didnt achieve the levels of the early days:
+But if we look past the early craziness, downloads are still strong and flat, in the vicinity of 2,500 per day.
+Note, that all these downloads were achieved by either App Store discovery or word of mouth. I didnt do any other promotion.
+So with steady downloads youd expect steady sales numbers, right?
+Sales were in steady decline over 2013, which can be seen even more easily with a cumulative graph.
+Almost 70% of the profit was from the US.
+I experimented with the in app purchase at 99c, $1.99 and $2.99. I ran each of them for one week and as you can see from the profit charts above it was very flat. Any increase (or decrease) in price was offset be the number of purchases.
+Apple were kind enough to feature the app on the front page in Australia, which isnt the biggest store but this still had a very positive impact on sales and downloads. The app even reach number two overall on the free charts, just behind Apples 12 Days of Gifts.
+Christmas saw the millionth download and some significant spikes in both sales and downloads. The new year took it to a new level. Profits were steady through most of November and December at $50 a day. During the first half of January that figure quadrupled to $200 a day. New year resolutions are definitely a positive for fitness apps.
+I submitted an update with some extra workouts as in app purchases, an alternative 7 Minute Workout and Pilates workout.
+By March everyone was over their new years resolutions (Unfortunately mine finished on January 1).
+Ignoring the spikes (Ill explain them in a bit), downloads returned to where they were leading up to the silly season, between 2k and 2.5k a day.
+Adding the new IAPs had almost zero impact on the original Pro upgrade (staying around $5060 profit a day), but they did help to lift daily revenue to around $70  $80 profit a day. Around a 40% increase in profits compared to late last year with similar download numbers, not bad.
+If we break it down individually you can see the Pro upgrade was still the major income stream, but the workouts help supplement it.
+The big spikes you saw above were educational downloads, 25k, 25k and 5k. I believe it is part of Apples education program. I love the thought of entire schools out there doing the 7 Minute Workout.
+Yahoo Advertising found app reviews and ratings are the most critical factors to a successful app, even more-so than price. They also found that negative app reviews are the biggest deterrent to an app being download.
+Using the Feedback Driven Growth process I mentioned earlier I managed to deter most negative reviews and get a lot of delighted users.
+The results were awesome, heres the reviews on the US App Store:
+And here is an example of some of the reviews Appbot sent through in its daily digest.
+Using the Feedback Drive Growth process I found:
+As the next step in trying to increase revenue I added All The Things as an in app purchase option. This allowed people to purchase the Pro upgrade and all the workouts for a fixed fee.
+This resulted in an overall increase in revenue compared to before All The Things was introduced and it also became the major revenue stream.
+Id call that experiment a success, and I highly recommend you consider adding an option to bundle in app purchases to your own apps.
+As Apple describes it : HealthKit allows apps that provide health and fitness services to share their data with the new Health app and with each other. A users health information is stored in a centralized and secure location and the user decides which data should be shared with your app.  Sounds like something that would work in 7 Minute Workout.
+I wanted the app to offer HealthKit support as soon as Apple released it, so I made sure I added iOS 8, HealthKit and iPhone 6/6 Plus support well before launch and submitted to the App Store.
+iOS 8 rolled out during the night in Australia and I woke up to this:
+I also had a missed call from a U.S. number. After some frantic Googling I found some headlines like this one suggesting Apple reportedly has pulled HealthKit-compatible apps from the App Store and that Apple appears to have discovered a significant last-minute issue with its HealthKit services. Phew, at least it wasnt just me.
+Apple were actually amazing during the process, constant calls keeping me up to date and getting my app (sans HealthKit) approved and back on the store within 36 hours with no loss of rank or search position.
+I had a bunch of confused users who had the app update with HealthKit, only to have it removed soon after. Luckily being able to add a FAQ remotely via (shameless plug!) AppbotX dried up the support requests.
+Even though HealthKit didnt come through for me on the iOS 8 launch I did manage to get my App Preview live and Apple Australia were kind enough to feature it.
+A big shout out to fellow Perth app dev Adam Shaw who helped me create the App Preview. You should checked out his app called Dressed, its very cool.
+With iOS 8.0.2 came the actual launch of HealthKit.
+I was away speaking at a conference in Melbourne (and then for two weeks of travelling with my family) when the app was featured in a special Apps For Health promo on the App Store home page in the US:
+Which resulted in the following sales:
+The best ever days for the app, bigger than even the New Years.
+It also generated a bunch of press over the next few days like this, this, this and many more.
+A big lesson from both adding HealthKit early and the App Preview was that you need to give Apple every opportunity to feature your app. Believe it or not Apple are on the lookout for apps to feature.
+What better way to stand out than being one of the first to get behind a feature that Apple is about to launch.
+How is your WatchKit integration going?
+Wahoo Fitness produce great app-connected sensors and were featured at the 2014 WWDC Keynote. Their new TICKR X sensor is a heart rate monitor and it can also track exercise repetition movement.
+So when Mike at Wahoo emailed me back in May about 7 minute workout, and how it might integrate with their suite of products, I was intrigued.
+Over the next two months we had a few discussions, but it stalled as I didnt feel finished with the app, and they werent quite ready with their device.
+Fast forward to November and things changed. Id been head-down working on Appbot and Wahoo came back with an offer to buy 7 Minute Workout. The timing was right and I was confident it would be in good hands
+Everyone I have dealt with at Wahoo has been amazing. From Chip and Mike early on, JP and then Dave and Ben during the handover, thank you.
+They have big plans for the app: there are already multiple custom workouts, new videos and integration with TICKR X to count repetitions.
+I cant wait to see it develop over the next year.
+2.3 million Downloads
+7.7 million Updates
+$72k Profit
+Dozens of amazing emails, Tweets and messages from people who were in part inspired to start developing apps thanks to these blog posts. Thank you to everyone that sent feedback or read the posts.
+I am now concentrating on Appbot full time, which is something Ive wanted to do for some time. We have so many exciting features coming soon, many of which have been inspired by this experiment like the new Sentiment Dashboard. The excitement of an early stage startup, the highs of adding and serving a new paying customer, talking to customers and building what they want is amazing. Its pretty addictive.
+One thing that Chip (the CEO of Wahoo) said to me on the first call we had will stick with me for a long time  We probably wouldnt have considered buying your app if we hadnt read the story.
+I was just looking back at the first point in the first paragraph of part 1 of the experiment
+How important is it to create a story around your product?
+I think Ill call that a very important.
+If you liked this story please help spread the word by hitting the recommend button below. Thanks!
+You can now get this story as an eBook, get it free!
+
